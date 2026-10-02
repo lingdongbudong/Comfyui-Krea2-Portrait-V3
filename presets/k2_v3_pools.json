@@ -1,0 +1,7674 @@
+{
+ "_meta": {
+  "source": "K2_V3_融合版.html",
+  "exported_at": "2026-09-30T11:12:09.820Z"
+ },
+ "opt": {
+  "lens": [
+   {
+    "v": "广角",
+    "t": "采用广角镜头，空间纵深感强烈，边缘轻微拉伸，近景主体突出、背景深远",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "超广角",
+    "t": "采用超广角镜头，极端空间拉伸，近景夸张放大、远景急剧缩小",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "鱼眼",
+    "t": "采用鱼眼镜头，圆形桶状畸变，180度视野，画面边缘弯曲",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "长焦压缩",
+    "t": "采用长焦镜头，压缩前后景距离，背景贴近主体，空间扁平化",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "中焦",
+    "t": "采用中焦镜头，人像黄金焦段，自然透视无畸变",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "微距",
+    "t": "采用微距镜头，极端特写，纹理毛孔可见，景深极浅",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "移轴",
+    "t": "采用移轴镜头，选择性对焦，现实场景呈现微缩模型感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "clothCat": [
+   {
+    "v": "内衣/睡衣",
+    "t": "内衣/睡衣"
+   },
+   {
+    "v": "上衣",
+    "t": "上衣"
+   },
+   {
+    "v": "下装",
+    "t": "下装"
+   },
+   {
+    "v": "连衣裙",
+    "t": "连衣裙"
+   },
+   {
+    "v": "外套",
+    "t": "外套"
+   },
+   {
+    "v": "职业制服",
+    "t": "职业制服"
+   },
+   {
+    "v": "传统服饰",
+    "t": "传统服饰"
+   }
+  ],
+  "poseCat": [
+   {
+    "v": "静态姿势",
+    "t": "静态姿势"
+   },
+   {
+    "v": "动态动作",
+    "t": "动态动作"
+   },
+   {
+    "v": "过渡姿态",
+    "t": "过渡姿态"
+   },
+   {
+    "v": "挑逗姿态",
+    "t": "挑逗姿态"
+   }
+  ],
+  "viewpoint": [
+   {
+    "v": "低角度仰拍",
+    "t": "从低角度仰拍，人物被抬高，充满压迫性的视觉张力",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "高角度俯拍",
+    "t": "从高角度俯拍，营造被注视却无力抵抗的脆弱美学",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "侧后方斜45度",
+    "t": "从侧后方斜45度捕捉，仿佛在某一刻被偶然窥见",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "倾斜视角",
+    "t": "画面整体倾斜打破水平线，营造不安的视觉张力",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "鸟瞰",
+    "t": "鸟瞰视角俯拍，人物在画面中央如精致人偶",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "虫视",
+    "t": "虫视角度从极低处向上仰拍，夸张的力量对比与压迫感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "过肩偷窥",
+    "t": "过肩偷窥视角，前景元素部分遮挡，营造私人时刻被窥视的紧张感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "主观视角",
+    "t": "第一人称主观视角，镜头即双眼，代入感极强",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "镜面反射",
+    "t": "人物背对镜头立于落地镜前，镜框将画面一分为二——镜外是人物真实的背影，镜中清晰倒映全身正面镜像，镜外虚、镜内实的景深对比强化画中画空间",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "框架内",
+    "t": "透过前景框架拍摄，形成画中画的聚焦效果",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "平视正面",
+    "t": "平视正对镜头，庄严直视，主体与观者正面相对",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "平视侧面",
+    "t": "平视侧面捕捉，轮廓线与面部侧影呈现",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "环绕侧视",
+    "t": "低角度环绕侧视，动态环绕感，人物侧身入画",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "shotSize": [
+   {
+    "v": "大特写",
+    "t": "大特写"
+   },
+   {
+    "v": "近景",
+    "t": "近景"
+   },
+   {
+    "v": "中近景",
+    "t": "中近景"
+   },
+   {
+    "v": "中景",
+    "t": "中景"
+   },
+   {
+    "v": "中全景",
+    "t": "中全景"
+   },
+   {
+    "v": "全景",
+    "t": "全景"
+   },
+   {
+    "v": "远景",
+    "t": "远景"
+   },
+   {
+    "v": "特写",
+    "t": "特写"
+   },
+   {
+    "v": "半身",
+    "t": "半身"
+   },
+   {
+    "v": "全身",
+    "t": "全身"
+   },
+   {
+    "v": "面部特写",
+    "t": "面部特写"
+   }
+  ],
+  "dof": [
+   {
+    "v": "浅景深",
+    "t": "浅景深虚化，背景柔和模糊",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "大景深",
+    "t": "大景深保持前后景物清晰",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "选择性对焦",
+    "t": "对焦点精准落在人物面部，其余区域逐层虚化",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "微距浅景深",
+    "t": "微距级浅景深，焦点极浅，失焦区域柔化成奶油色光斑",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "device": [
+   {
+    "v": "不使用",
+    "t": "",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "手机自拍",
+    "t": "手机自拍的生活化画质",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "单反微单",
+    "t": "单反高画质质感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "胶片相机",
+    "t": "胶片颗粒与色彩偏移的质感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "拍立得",
+    "t": "拍立得的褪色边框质感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "监控摄像头",
+    "t": "监控摄像头式的低画质与时间戳感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "针孔摄像头",
+    "t": "针孔镜头式的隐蔽畸变画质",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "网络摄像头",
+    "t": "网络摄像头的低分辨率压缩感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "电影机",
+    "t": "电影机般的电影级画质",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "mainLight": [
+   {
+    "v": "发丝光",
+    "t": "背光从身后打来，勾勒发丝与身体边缘的金色光晕",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "侧逆光",
+    "t": "侧逆光从侧后方照来，一侧轮廓发光，另一侧沉入阴影",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "伦勃朗光",
+    "t": "伦勃朗式侧光从前方照下，脸颊暗侧留出三角光区，如古典油画",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "蝴蝶光",
+    "t": "柔和主光从上方照下，鼻下留下蝶形阴影，好莱坞式美感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "分割光",
+    "t": "正侧光将脸与身体分为半明半暗",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "环形光",
+    "t": "环形光从斜上方柔柔落下，自然肖像感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "柔光箱",
+    "t": "大面积柔光箱柔光笼罩，阴影极少，美妆片质感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "硬光",
+    "t": "小光源硬光直射，锐利阴影强调轮廓与纹理",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "底光",
+    "t": "光线从下往上打来，神秘而暧昧",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "剪影光",
+    "t": "强烈背光形成剪影，主体轮廓纯黑",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "侧光",
+    "t": "单一侧光照亮半边轮廓，另半边沉入阴影，雕塑感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "顶光",
+    "t": "顶光从正上方直射，眼窝与鼻下发阴影，戏剧性",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "ambient": [
+   {
+    "v": "不使用",
+    "t": "",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "窗外霓虹",
+    "t": "窗外霓虹从侧后方渗入，沿肩线勾出冷色轮廓",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "烛光",
+    "t": "烛火在旁轻摇，暖黄光斑在皮肤上浮动",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "屏幕光",
+    "t": "屏幕的冷光映在脸上",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "月光",
+    "t": "月光从窗外落在肩头",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "电影体积光",
+    "t": "电影式的体积光穿过空气形成光柱",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "百叶窗影",
+    "t": "百叶窗影斜斜印在身体上",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "蕾丝投影",
+    "t": "蕾丝花纹的光影投在皮肤上",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "蒸汽透光",
+    "t": "蒸汽在光线下泛着朦胧光晕",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "水面反光",
+    "t": "水面波光倒映在皮肤上，光影流转",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "阳光窗影",
+    "t": "午后的暖阳透过窗纱洒下，明暗交织",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "霓虹灯管",
+    "t": "霓虹灯管的彩色光晕映在身侧",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "colorTone": [
+   {
+    "v": "烛光暖",
+    "t": "整体暖调烛光色，低明度、低饱和，氛围亲密暧昧",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "钨丝暖",
+    "t": "整体钨丝灯暖调，明度适中，氛围温馨慵懒",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "晨昏金光",
+    "t": "整体黄昏金色调，柔和低对比，氛围温柔怀旧",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "中性白",
+    "t": "整体中性白色调，自然真实，氛围平静中立",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "日光清新",
+    "t": "整体自然日光调，明亮低饱和，氛围清新通透",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "阴天柔灰",
+    "t": "整体阴天柔灰调，低饱和低对比，氛围忧郁安静",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "冷白荧光",
+    "t": "整体冷白荧光调，冷硬高对比，氛围疏离压抑",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "月光冷调",
+    "t": "整体冷调月光色，暗部偏蓝、高对比，氛围神秘冷艳",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "霓虹混合",
+    "t": "整体霓虹混合色调，高饱和撞色，氛围欲望迷离",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "暖黄胶片",
+    "t": "整体暖黄胶片调，颗粒细腻、对比柔和、奶油肤色",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "青橙对比",
+    "t": "整体青橙色对比调，阴影偏青、高光偏橙，电影感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "粉紫梦幻",
+    "t": "整体粉紫色调，柔光高调，氛围梦幻浪漫",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "temperament": [
+   {
+    "v": "清纯",
+    "t": "清纯"
+   },
+   {
+    "v": "御姐",
+    "t": "御姐"
+   },
+   {
+    "v": "可爱",
+    "t": "可爱"
+   },
+   {
+    "v": "呆萌",
+    "t": "呆萌"
+   },
+   {
+    "v": "高冷",
+    "t": "高冷"
+   },
+   {
+    "v": "慵懒",
+    "t": "慵懒"
+   },
+   {
+    "v": "冷艳",
+    "t": "冷艳"
+   },
+   {
+    "v": "甜美",
+    "t": "甜美"
+   },
+   {
+    "v": "飒爽",
+    "t": "飒爽"
+   },
+   {
+    "v": "温柔",
+    "t": "温柔"
+   },
+   {
+    "v": "知性",
+    "t": "知性"
+   },
+   {
+    "v": "魅惑",
+    "t": "魅惑"
+   },
+   {
+    "v": "叛逆",
+    "t": "叛逆"
+   },
+   {
+    "v": "文艺",
+    "t": "文艺"
+   },
+   {
+    "v": "名媛",
+    "t": "名媛"
+   },
+   {
+    "v": "高贵",
+    "t": "高贵"
+   },
+   {
+    "v": "不食人间烟火",
+    "t": "不食人间烟火"
+   },
+   {
+    "v": "危险迷人",
+    "t": "危险迷人"
+   },
+   {
+    "v": "温婉",
+    "t": "温婉"
+   },
+   {
+    "v": "古灵精怪",
+    "t": "古灵精怪"
+   },
+   {
+    "v": "活泼",
+    "t": "活泼"
+   },
+   {
+    "v": "成熟",
+    "t": "成熟"
+   },
+   {
+    "v": "坚毅",
+    "t": "坚毅"
+   },
+   {
+    "v": "神秘",
+    "t": "神秘"
+   },
+   {
+    "v": "空灵",
+    "t": "空灵"
+   },
+   {
+    "v": "坚韧",
+    "t": "坚韧"
+   }
+  ],
+  "age": [
+   {
+    "v": "18岁青春少女",
+    "t": "18岁青春少女"
+   },
+   {
+    "v": "20岁女大学生",
+    "t": "20岁女大学生"
+   },
+   {
+    "v": "22岁研究生学姐",
+    "t": "22岁研究生学姐"
+   },
+   {
+    "v": "24岁职场新人",
+    "t": "24岁职场新人"
+   },
+   {
+    "v": "26岁轻熟女",
+    "t": "26岁轻熟女"
+   },
+   {
+    "v": "28岁职场女性",
+    "t": "28岁职场女性"
+   },
+   {
+    "v": "30岁优雅熟女",
+    "t": "30岁优雅熟女"
+   },
+   {
+    "v": "32岁知性熟女",
+    "t": "32岁知性熟女"
+   },
+   {
+    "v": "35岁风韵熟女",
+    "t": "35岁风韵熟女"
+   }
+  ],
+  "race": [
+   {
+    "v": "东亚美少女",
+    "t": "东亚美少女"
+   },
+   {
+    "v": "韩系精致",
+    "t": "韩系精致"
+   },
+   {
+    "v": "日系自然",
+    "t": "日系自然"
+   },
+   {
+    "v": "欧美",
+    "t": "欧美"
+   },
+   {
+    "v": "混血感",
+    "t": "混血感"
+   },
+   {
+    "v": "东南亚混血",
+    "t": "东南亚混血"
+   },
+   {
+    "v": "俄罗斯风味",
+    "t": "俄罗斯风味"
+   },
+   {
+    "v": "拉丁风情",
+    "t": "拉丁风情"
+   }
+  ],
+  "face": [
+   {
+    "v": "瓜子脸",
+    "t": "瓜子脸"
+   },
+   {
+    "v": "鹅蛋脸",
+    "t": "鹅蛋脸"
+   },
+   {
+    "v": "圆脸",
+    "t": "圆脸"
+   },
+   {
+    "v": "心形脸",
+    "t": "心形脸"
+   },
+   {
+    "v": "幼态脸",
+    "t": "幼态脸"
+   },
+   {
+    "v": "高级脸",
+    "t": "高级脸"
+   },
+   {
+    "v": "网感脸",
+    "t": "网感脸"
+   },
+   {
+    "v": "方圆脸",
+    "t": "方圆脸"
+   },
+   {
+    "v": "小圆脸",
+    "t": "小圆脸"
+   },
+   {
+    "v": "棱角分明",
+    "t": "棱角分明"
+   }
+  ],
+  "skin": [
+   {
+    "v": "粉白皮",
+    "t": "粉白皮"
+   },
+   {
+    "v": "冷白皮",
+    "t": "冷白皮"
+   },
+   {
+    "v": "白皙",
+    "t": "白皙"
+   },
+   {
+    "v": "自然肤色",
+    "t": "自然肤色"
+   },
+   {
+    "v": "小麦色",
+    "t": "小麦色"
+   },
+   {
+    "v": "古铜色",
+    "t": "古铜色"
+   },
+   {
+    "v": "暖白皮",
+    "t": "暖白皮"
+   },
+   {
+    "v": "奶油肌",
+    "t": "奶油肌"
+   }
+  ],
+  "texture": [
+   {
+    "v": "哑光质感",
+    "t": "哑光质感"
+   },
+   {
+    "v": "自然素肌",
+    "t": "自然素肌"
+   },
+   {
+    "v": "奶油肌",
+    "t": "奶油肌"
+   },
+   {
+    "v": "水光肌",
+    "t": "水光肌"
+   }
+  ],
+  "body": [
+   {
+    "v": "纤细匀称",
+    "t": "纤细匀称"
+   },
+   {
+    "v": "苗条骨感",
+    "t": "苗条骨感"
+   },
+   {
+    "v": "模特高挑",
+    "t": "模特高挑"
+   },
+   {
+    "v": "娇小",
+    "t": "娇小"
+   },
+   {
+    "v": "沙漏型",
+    "t": "沙漏型"
+   },
+   {
+    "v": "梨形",
+    "t": "梨形"
+   },
+   {
+    "v": "直筒型",
+    "t": "直筒型"
+   },
+   {
+    "v": "丰满匀称",
+    "t": "丰满匀称"
+   },
+   {
+    "v": "健康匀称",
+    "t": "健康匀称"
+   },
+   {
+    "v": "轻盈",
+    "t": "轻盈"
+   }
+  ],
+  "leg": [
+   {
+    "v": "修长笔直",
+    "t": "修长笔直"
+   },
+   {
+    "v": "纤细笔直",
+    "t": "纤细笔直"
+   },
+   {
+    "v": "蜜大腿",
+    "t": "蜜大腿"
+   },
+   {
+    "v": "腿部比例极佳",
+    "t": "腿部比例极佳"
+   },
+   {
+    "v": "匀称有力",
+    "t": "匀称有力"
+   },
+   {
+    "v": "笔直白皙",
+    "t": "笔直白皙"
+   }
+  ],
+  "firstImp": [
+   {
+    "v": "楚楚可怜",
+    "t": "楚楚可怜"
+   },
+   {
+    "v": "气场强大",
+    "t": "气场强大"
+   },
+   {
+    "v": "甜美治愈",
+    "t": "甜美治愈"
+   },
+   {
+    "v": "生人勿近",
+    "t": "生人勿近"
+   },
+   {
+    "v": "如沐春风",
+    "t": "如沐春风"
+   },
+   {
+    "v": "纯真无邪",
+    "t": "纯真无邪"
+   },
+   {
+    "v": "清冷疏离",
+    "t": "清冷疏离"
+   },
+   {
+    "v": "娇俏灵动",
+    "t": "娇俏灵动"
+   },
+   {
+    "v": "沉静如诗",
+    "t": "沉静如诗"
+   }
+  ],
+  "hairLen": [
+   {
+    "v": "及腰长发",
+    "t": "及腰长发"
+   },
+   {
+    "v": "过胸长发",
+    "t": "过胸长发"
+   },
+   {
+    "v": "及肩中长发",
+    "t": "及肩中长发"
+   },
+   {
+    "v": "齐肩发",
+    "t": "齐肩发"
+   },
+   {
+    "v": "齐耳短发",
+    "t": "齐耳短发"
+   },
+   {
+    "v": "锁骨发",
+    "t": "锁骨发"
+   },
+   {
+    "v": "短发",
+    "t": "短发"
+   },
+   {
+    "v": "极长及臀长发",
+    "t": "极长及臀长发"
+   }
+  ],
+  "hairColor": [
+   {
+    "v": "黑发",
+    "t": "黑发"
+   },
+   {
+    "v": "黑茶色",
+    "t": "黑茶色"
+   },
+   {
+    "v": "深棕",
+    "t": "深棕"
+   },
+   {
+    "v": "浅棕",
+    "t": "浅棕"
+   },
+   {
+    "v": "栗色",
+    "t": "栗色"
+   },
+   {
+    "v": "奶茶色",
+    "t": "奶茶色"
+   },
+   {
+    "v": "奶茶灰棕",
+    "t": "奶茶灰棕"
+   },
+   {
+    "v": "亚麻色",
+    "t": "亚麻色"
+   },
+   {
+    "v": "金色",
+    "t": "金色"
+   },
+   {
+    "v": "白金色",
+    "t": "白金色"
+   },
+   {
+    "v": "灰蓝色",
+    "t": "灰蓝色"
+   },
+   {
+    "v": "渐变染",
+    "t": "渐变染"
+   },
+   {
+    "v": "渐变粉",
+    "t": "渐变粉"
+   },
+   {
+    "v": "挑染",
+    "t": "挑染"
+   },
+   {
+    "v": "挂耳染",
+    "t": "挂耳染"
+   },
+   {
+    "v": "银灰色",
+    "t": "银灰色"
+   },
+   {
+    "v": "雾霾蓝",
+    "t": "雾霾蓝"
+   },
+   {
+    "v": "樱花粉",
+    "t": "樱花粉"
+   },
+   {
+    "v": "红棕色",
+    "t": "红棕色"
+   },
+   {
+    "v": "墨绿色",
+    "t": "墨绿色"
+   },
+   {
+    "v": "紫灰色",
+    "t": "紫灰色"
+   }
+  ],
+  "hairCurl": [
+   {
+    "v": "直发柔顺",
+    "t": "直发柔顺"
+   },
+   {
+    "v": "自然微卷",
+    "t": "自然微卷"
+   },
+   {
+    "v": "波浪卷",
+    "t": "波浪卷"
+   },
+   {
+    "v": "大卷",
+    "t": "大卷"
+   },
+   {
+    "v": "羊毛卷",
+    "t": "羊毛卷"
+   },
+   {
+    "v": "慵懒卷",
+    "t": "慵懒卷"
+   },
+   {
+    "v": "法式烫",
+    "t": "法式烫"
+   },
+   {
+    "v": "木马卷",
+    "t": "木马卷"
+   },
+   {
+    "v": "公主切",
+    "t": "公主切"
+   },
+   {
+    "v": "大波浪",
+    "t": "大波浪"
+   },
+   {
+    "v": "云朵卷",
+    "t": "云朵卷"
+   },
+   {
+    "v": "微卷蓬松",
+    "t": "微卷蓬松"
+   },
+   {
+    "v": "拉美风格卷",
+    "t": "拉美风格卷"
+   }
+  ],
+  "hairTie": [
+   {
+    "v": "披散",
+    "t": "披散"
+   },
+   {
+    "v": "高马尾",
+    "t": "高马尾"
+   },
+   {
+    "v": "低马尾",
+    "t": "低马尾"
+   },
+   {
+    "v": "侧马尾",
+    "t": "侧马尾"
+   },
+   {
+    "v": "双马尾",
+    "t": "双马尾"
+   },
+   {
+    "v": "丸子头",
+    "t": "丸子头"
+   },
+   {
+    "v": "低髻",
+    "t": "低髻"
+   },
+   {
+    "v": "半扎",
+    "t": "半扎"
+   },
+   {
+    "v": "麻花辫",
+    "t": "麻花辫"
+   },
+   {
+    "v": "盘发",
+    "t": "盘发"
+   },
+   {
+    "v": "松散发髻",
+    "t": "松散发髻"
+   },
+   {
+    "v": "高丸子头",
+    "t": "高丸子头"
+   },
+   {
+    "v": "低丸子头",
+    "t": "低丸子头"
+   },
+   {
+    "v": "双丸子头",
+    "t": "双丸子头"
+   },
+   {
+    "v": "法式辫",
+    "t": "法式辫"
+   },
+   {
+    "v": "鱼骨辫",
+    "t": "鱼骨辫"
+   },
+   {
+    "v": "公主头",
+    "t": "公主头"
+   },
+   {
+    "v": "灯笼辫",
+    "t": "灯笼辫"
+   }
+  ],
+  "hairBangs": [
+   {
+    "v": "齐刘海",
+    "t": "齐刘海"
+   },
+   {
+    "v": "空气刘海",
+    "t": "空气刘海"
+   },
+   {
+    "v": "八字刘海",
+    "t": "八字刘海"
+   },
+   {
+    "v": "侧分",
+    "t": "侧分"
+   },
+   {
+    "v": "中分",
+    "t": "中分"
+   },
+   {
+    "v": "无刘海",
+    "t": "无刘海"
+   },
+   {
+    "v": "法式刘海",
+    "t": "法式刘海"
+   },
+   {
+    "v": "龙须刘海",
+    "t": "龙须刘海"
+   },
+   {
+    "v": "斜刘海",
+    "t": "斜刘海"
+   },
+   {
+    "v": "眉上短刘海",
+    "t": "眉上短刘海"
+   },
+   {
+    "v": "碎刘海",
+    "t": "碎刘海"
+   }
+  ],
+  "hairState": [
+   {
+    "v": "柔顺垂落",
+    "t": "柔顺垂落"
+   },
+   {
+    "v": "随风轻扬",
+    "t": "随风轻扬"
+   },
+   {
+    "v": "几缕碎发拂过脸颊",
+    "t": "几缕碎发拂过脸颊"
+   },
+   {
+    "v": "凌乱蓬松",
+    "t": "凌乱蓬松"
+   },
+   {
+    "v": "发梢微翘",
+    "t": "发梢微翘"
+   },
+   {
+    "v": "贴脸碎发",
+    "t": "贴脸碎发"
+   },
+   {
+    "v": "湿发撩开",
+    "t": "湿发撩开"
+   },
+   {
+    "v": "发丝遮眼",
+    "t": "发丝遮眼"
+   },
+   {
+    "v": "微湿贴肤",
+    "t": "微湿贴肤"
+   },
+   {
+    "v": "光泽垂顺",
+    "t": "光泽垂顺"
+   },
+   {
+    "v": "发尾外翻",
+    "t": "发尾外翻"
+   }
+  ],
+  "hairAcc": [
+   {
+    "v": "不使用",
+    "t": "",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "蝴蝶结发夹",
+    "t": "发间别着一枚蝴蝶结发夹",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "珍珠发夹",
+    "t": "发间别着一枚珍珠发夹",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "发箍",
+    "t": "头顶戴着细发箍",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "发带",
+    "t": "额前系着一条发带",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "鲨鱼夹",
+    "t": "脑后别着鲨鱼夹",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "簪子",
+    "t": "发间斜插一支簪子",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "花朵发饰",
+    "t": "发间簪着花朵发饰",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "猫耳发饰",
+    "t": "头顶戴着猫耳发饰",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "贝雷帽",
+    "t": "头顶斜戴一顶贝雷帽",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "护士帽",
+    "t": "头戴护士帽",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "女仆发饰",
+    "t": "发间系着女仆头饰",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "蕾丝眼罩",
+    "t": "蕾丝眼罩半搭在额前",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "皇冠",
+    "t": "头顶戴着小皇冠",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "花冠",
+    "t": "发间绕着花冠",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "面纱",
+    "t": "薄纱面纱垂在脸侧",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "草帽",
+    "t": "头戴草帽",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "棒球帽",
+    "t": "头戴棒球帽",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "丝带编发",
+    "t": "发间编入一条丝带",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "发绳",
+    "t": "发尾系着一条彩色发绳",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "绢花发饰",
+    "t": "发侧别着一朵娟花，布面花瓣层叠",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "珍珠流苏发饰",
+    "t": "发间垂着珍珠流苏，随动作轻晃",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "金属发夹",
+    "t": "发侧别着金属几何发夹",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "兔耳发饰",
+    "t": "头顶戴着兔耳发饰",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "蝴蝶翅膀发饰",
+    "t": "发间立着蝴蝶翅膀发饰",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "毛绒发箍",
+    "t": "头顶戴着一圈毛绒发箍",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "渔夫帽",
+    "t": "头戴渔夫帽，帽檐压低",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "鸭舌帽",
+    "t": "反戴鸭舌帽，飒爽",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "宽檐礼帽",
+    "t": "头戴宽檐礼帽，优雅复古",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "大檐草帽",
+    "t": "头戴大檐草帽，度假感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "发带包头巾",
+    "t": "额前系着印花头巾",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "珍珠头纱",
+    "t": "发间垂着珍珠头纱，婚礼感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "发夹星星",
+    "t": "发间别着星星形状发夹",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "makeup": [
+   {
+    "v": "素颜",
+    "t": "裸妆感，自然无妆感，清透底妆",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "清纯淡妆",
+    "t": "淡粉色唇釉，棕色眼线微挑，日系透明感，若有似无",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "甜妹妆",
+    "t": "粉色系腮红，亮片眼影，水光唇釉，爱豆感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "网感妆",
+    "t": "精致滤镜感，卧蚕突出，睫毛浓密，高光点缀",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "纯欲妆",
+    "t": "大面积眼下腮红晕染，嘟嘟唇水光质感，看似无妆处处精致",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "御姐妆",
+    "t": "红唇浓烈，眼线上挑，哑光底妆，气场全开",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "欧美妆",
+    "t": "截断式眼妆，裸色唇，古铜修容，假睫毛浓密",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "厌世妆",
+    "t": "低饱和，眼尾下垂，唇色暗沉，宿醉感腮红",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "港风妆",
+    "t": "浓密黑发配大红唇，微卷眼线，复古明艳",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "韩系水光妆",
+    "t": "水光肌底，粉色腮红，玻璃唇，清透立体",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "病娇妆",
+    "t": "眼下泛红晕染，眼尾微挑，唇色暗红，危险感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "樱花粉嫩妆",
+    "t": "樱花色系眼影，粉色腮红在颧骨晕染，水润樱桃唇",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "复古红唇妆",
+    "t": "正红哑光唇膏，复古眼线微翘，肤白立挺，九零年代港风",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "清新裸妆",
+    "t": "薄透底妆，浅杏色腮红，裸茶色唇，元气自然",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "哥特暗黑妆",
+    "t": "苍白哑光底妆，重黑烟熏眼，深紫/黑唇色，冷冽",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "猫眼妆",
+    "t": "眼线上扬如猫眼，棕色渐变，蜜桃色唇，妩媚",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "云朵妆",
+    "t": "大面积彩色眼影晕染，粉蓝紫渐变，梦幻仙子感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "晒伤妆",
+    "t": "鼻梁与两颧横带腮红，似日晒红晕，俏皮度假感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "斩男伪素颜妆",
+    "t": "透亮底妆轻薄，内眼线，珊瑚水光唇，心机裸妆",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "杂志浓妆",
+    "t": "大面积修容，立体感强，细挑眉，鲜明唇色，大片感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "中式古典妆",
+    "t": "细长柳叶眉，樱桃小口红唇，胭脂腮红，古典美",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "makeupDetail": [
+   {
+    "v": "不使用",
+    "t": "不使用"
+   },
+   {
+    "v": "无瑕底妆",
+    "t": "无瑕底妆"
+   },
+   {
+    "v": "自然腮红",
+    "t": "自然腮红"
+   },
+   {
+    "v": "卧蚕提亮",
+    "t": "卧蚕提亮"
+   },
+   {
+    "v": "眼下腮红",
+    "t": "眼下腮红"
+   },
+   {
+    "v": "哑光红唇",
+    "t": "哑光红唇"
+   },
+   {
+    "v": "重眼影",
+    "t": "重眼影"
+   },
+   {
+    "v": "浓密睫毛",
+    "t": "浓密睫毛"
+   },
+   {
+    "v": "泪痣",
+    "t": "泪痣"
+   },
+   {
+    "v": "上扬眼线",
+    "t": "上扬眼线"
+   },
+   {
+    "v": "眼下亮片",
+    "t": "眼下亮片"
+   },
+   {
+    "v": "大红唇",
+    "t": "大红唇"
+   },
+   {
+    "v": "粉调腮红",
+    "t": "粉调腮红"
+   },
+   {
+    "v": "水光唇",
+    "t": "水光唇"
+   },
+   {
+    "v": "渐变唇",
+    "t": "渐变唇"
+   },
+   {
+    "v": "下眼睑晕染",
+    "t": "下眼睑晕染"
+   },
+   {
+    "v": "长睫毛",
+    "t": "长睫毛"
+   },
+   {
+    "v": "细挑眉",
+    "t": "细挑眉"
+   },
+   {
+    "v": "彩色眼线",
+    "t": "彩色眼线"
+   },
+   {
+    "v": "蜜桃腮红",
+    "t": "蜜桃腮红"
+   }
+  ],
+  "smudge": [
+   {
+    "v": "不使用",
+    "t": "",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "轻微",
+    "t": "妆容略有花掉的痕迹，口红边缘微晕",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "中度",
+    "t": "眼线晕开，口红蹭到脸颊",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "重度",
+    "t": "眼妆糊成一片，口红满脸",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "nails": [
+   {
+    "v": "不使用",
+    "t": "",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "精致美甲",
+    "t": "指尖是精致美甲",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "自然素甲",
+    "t": "指尖素净无装饰",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "甲油剥落",
+    "t": "指尖甲油微微剥落",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "emotion": [
+   {
+    "v": "害羞",
+    "t": "脸颊泛红，视线躲闪，带着羞怯的浅笑",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "魅惑",
+    "t": "眼神迷离，嘴角似笑非笑，带着勾人的意味",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "愉悦",
+    "t": "眉头舒展，嘴唇微启，神情沉醉愉悦",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "服从",
+    "t": "眼神顺从，微微仰视，等待指令般安静",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "俏皮",
+    "t": "歪着头，眼带笑意，俏皮灵动",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "痛苦",
+    "t": "眉头微皱，咬牙隐忍，眼角泛红",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "惊恐",
+    "t": "双眼睁大，神情惊惶，嘴唇微张",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "恍惚失神",
+    "t": "眼神涣散，神情放空，微微失焦",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "隐忍",
+    "t": "抿紧嘴唇，强作镇定，眉眼间压着情绪",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "冷淡",
+    "t": "神情冷淡，目光游离，从容疏离",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "反差",
+    "t": "清纯的面孔下藏着勾人的神情，克制与欲望交织",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "得意",
+    "t": "嘴角微扬，眉眼带着志在必得的笑意",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "沉静",
+    "t": "神情安宁，目光沉静如水",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "好奇",
+    "t": "微微侧头，眼睛亮起，带着探究的意味",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "娇嗔",
+    "t": "轻挑眉，嘴角微嘟，带着撒娇的埋怨",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "迷醉",
+    "t": "眼神微醺，脸颊泛红，神情飘飘然",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "坚毅",
+    "t": "神情笃定，目光专注，意气凛然",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "慵懒",
+    "t": "神情松弛，眼睑微垂，带着懒洋洋的意味",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "神秘",
+    "t": "唇角噙着一丝似有若无的笑，让人看不透",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "天真",
+    "t": "眼神澄澈，嘴角漾开干净的笑",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "急促",
+    "t": "脸颊泛红，胸膛微微起伏，呼吸略快",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "困惑",
+    "t": "眉头轻蹙，眼神带着不解，微微歪头",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "eye": [
+   {
+    "v": "勾引",
+    "t": "低垂眼帘抬眼看人，侧目斜睨",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "迷离失神",
+    "t": "半闭着眼，瞳孔涣散",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "羞耻回避",
+    "t": "羞涩地移开视线，脸颊绯红",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "乞求哀怨",
+    "t": "水汪汪地向上望，带着哀求",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "放空虚无",
+    "t": "目光空洞，望向虚处",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "惊恐",
+    "t": "眼睛瞪大，目光发直",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "挑逗",
+    "t": "直勾勾地注视，带着挑衅",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "湿润含泪",
+    "t": "眼眶微红，泛着泪光",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "闭眼",
+    "t": "双眼轻阖，睫毛微颤",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "斜睨",
+    "t": "眼神斜斜瞥来，带着玩味",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "直视",
+    "t": "目光直直望进镜头，坦然无畏",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "含情脉脉",
+    "t": "眼波流转，柔情似水地望来",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "锐利",
+    "t": "目光如刀，眉宇间带着锋芒",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "空灵",
+    "t": "眼神澄澈透亮，仿佛不染尘埃",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "半阖",
+    "t": "眼睑低垂半睁，目光慵懒朦胧",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "眯眼浅笑",
+    "t": "眉眼弯弯，眼尾泛起细纹，笑意盈盈",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "mouth": [
+   {
+    "v": "闭合",
+    "t": "嘴唇轻抿，唇角带着若有若无的浅笑",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "微张",
+    "t": "嘴唇微张，吐息轻轻",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "咬唇",
+    "t": "贝齿轻咬下唇",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "吐舌",
+    "t": "舌尖轻轻探出",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "舔唇",
+    "t": "舌尖缓缓舔过下唇",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "唾液",
+    "t": "唇角牵着一丝透明的唾液细线",
+    "risk": false,
+    "nsfw": true,
+    "water": false
+   },
+   {
+    "v": "抿嘴",
+    "t": "双唇抿紧，克制隐忍",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "嘟嘴",
+    "t": "微微嘟起嘴唇，撒娇般",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "露齿笑",
+    "t": "唇角上扬，露出整齐贝齿",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "轻启",
+    "t": "双唇微微开启，欲言又止",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "轻吻手指",
+    "t": "指尖轻抵唇边，作出轻吻状",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "微颤",
+    "t": "下唇微微颤动，克制着情绪",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "唇角上翘",
+    "t": "一侧唇角微微上挑，带着玩味",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "哈气",
+    "t": "微微启唇呵气，吐息若有若无",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "shoes": [
+   {
+    "v": "不使用",
+    "t": "",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "银色细跟高跟鞋",
+    "t": "银色细跟高跟鞋，纤细踝带缠绕脚踝，鞋跟细如针尖",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "黑色尖头高跟鞋",
+    "t": "黑色尖头高跟鞋，鞋面弧线开口延伸至脚背",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "裸色踝带高跟鞋",
+    "t": "裸色踝带高跟鞋，纤细带子绕过脚踝扣在侧面",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "透明塑料高跟鞋",
+    "t": "透明塑料高跟鞋，脚趾与脚背在鞋内清晰可见",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "罗马绑带细高跟鞋",
+    "t": "罗马绑带细高跟，细带从脚踝交叉缠绕至小腿中段，尖头漆皮",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "红底细跟鞋",
+    "t": "红底细跟鞋，极细高跟，黑/裸色尖头，鞋底一抹正红在细微角度露出",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "水钻细高跟鞋",
+    "t": "水钻细高跟鞋，鞋面满镶水钻碎钻，逆光下整只鞋闪烁星芒",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "铆钉尖头高跟鞋",
+    "t": "铆钉尖头高跟鞋，尖头漆皮，鞋口一圈银色铆钉，朋克质感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "缎面蝴蝶结高跟鞋",
+    "t": "缎面蝴蝶结高跟鞋，圆头，鞋面一只同色缎面蝴蝶结",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "一字夹带高跟鞋",
+    "t": "一字夹带高跟鞋，一条横带扣在脚背，简约大气",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "蛇纹异域高跟鞋",
+    "t": "蛇纹异域高跟鞋，尖头细高跟，鞋面蛇皮纹路，异域风情",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "绝细针尖高跟鞋",
+    "t": "绝细针尖高跟鞋，鞋跟细如针尖，尖头无装饰，脚背大面积裸露",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "几何异形跟高跟鞋",
+    "t": "几何异形跟高跟鞋，鞋跟作一字节/马蹄/法棍形，超模街拍款",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "木质跟尖头高跟鞋",
+    "t": "木质跟尖头高跟鞋，细高跟上段木质竹节质感，自然高级",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "纯白极简高跟鞋",
+    "t": "纯白极简高跟鞋，尖头细跟毫无装饰，清冷名模感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "金属跟高跟鞋",
+    "t": "金属跟高跟鞋，鞋跟全金属色，银/金/玫瑰金，未来感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "漆皮一字带高跟鞋",
+    "t": "漆皮一字带高跟鞋，粗跟，宽横带扣住脚背，摩登利落",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "黑色皮革过膝长靴",
+    "t": "黑色皮革过膝长靴，靴筒紧贴小腿与大腿，拉链延伸至膝盖上方",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "黑色马丁靴",
+    "t": "黑色马丁靴，八孔系带，厚底齿轮纹路",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "黑色切尔西靴",
+    "t": "黑色切尔西靴，侧边松紧带，靴筒及踝",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "黑色袜靴",
+    "t": "黑色袜靴，弹力面料贴合腿型，鞋跟细高，简约利落",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "裸色踝靴",
+    "t": "裸色踝靴，尖头细跟，靴筒到脚踝上方，温婉知性",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "白色高筒靴",
+    "t": "白色高筒靴，靴筒过膝，柔美复古",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "白色厚底运动鞋",
+    "t": "白色厚底运动鞋，鞋底增高，鞋面皮革拼接网眼",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "黑色漆皮乐福鞋",
+    "t": "黑色漆皮乐福鞋，鞋面金属马衔扣",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "芭蕾平底鞋",
+    "t": "缎面芭蕾平底鞋，鞋面系带交叉缠绕脚踝",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "白色帆布鞋",
+    "t": "白色帆布鞋，鞋面帆布磨旧，鞋带随意系着",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "细带凉鞋",
+    "t": "细带凉鞋，多根细带缠绕脚踝，露出脚趾",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "穆勒鞋",
+    "t": "麂皮穆勒鞋，露跟尖头，慵懒高级",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "玛丽珍鞋",
+    "t": "红/黑玛丽珍鞋，圆头，脚背一条扣带，复古甜美",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "老爹鞋",
+    "t": "白色缓震老爹鞋，肥厚鞋底，运动街头风",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "登山靴",
+    "t": "深色登山靴，粗粝防滑底，拉链与绑带结合，硬朗",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "赤脚",
+    "t": "赤脚，脚背弧度优雅，脚趾圆润排列整齐",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "socks": [
+   {
+    "v": "不使用",
+    "t": "",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "肉色连裤丝袜",
+    "t": "肉色连裤丝袜包裹双腿，面料轻薄如第二层肌肤",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "黑色连裤丝袜",
+    "t": "黑色连裤丝袜，哑光面料紧贴腿部",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "黑色渔网袜",
+    "t": "黑色渔网袜，网眼从大腿根部延伸至脚踝",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "黑色过膝袜",
+    "t": "黑色过膝袜，袜口收紧在大腿中部",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "白色蕾丝花边过膝袜",
+    "t": "白色蕾丝花边过膝袜，袜口蕾丝翻折",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "白色小腿袜",
+    "t": "白色小腿袜，袜口在膝盖下方，棉质哑光",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "白色及踝袜",
+    "t": "白色及踝袜，袜口荷叶边从鞋口俏皮翻出",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "黑色吊带袜",
+    "t": "黑色吊带袜，吊袜带扣住袜口，袜身紧贴大腿",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "白色泡泡袜",
+    "t": "白色泡泡袜，袜口堆叠蓬松，甜美",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "灰色堆堆袜",
+    "t": "灰色堆堆袜，袜口在脚踝堆出褶皱",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "黑色蕾丝短袜",
+    "t": "黑色蕾丝短袜，袜口一圈蕾丝花边",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "肤色透肉连裤袜",
+    "t": "肤色透肉连裤袜，超薄近透明，皮肤纹理隐约可见",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "白色连裤袜",
+    "t": "白色连裤丝袜，纯白哑光，清纯干净",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "深灰连裤袜",
+    "t": "深灰连裤丝袜，炭灰哑光，通勤知性",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "酒红连裤袜",
+    "t": "酒红连裤丝袜，复古浓郁，冬日氛围",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "天鹅绒连裤袜",
+    "t": "天鹅绒连裤袜，厚实哑光暖冬，触感绒密",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "丝绸质感连裤袜",
+    "t": "丝绸质感连裤袜，柔滑微光，贴着腿泛柔和光泽",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "提花连裤袜",
+    "t": "提花连裤袜，爱心/玫瑰/字母织花，精致细节",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "菱形渔网袜",
+    "t": "菱形渔网袜，比渔网精致，格纹优雅",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "竖条纹丝袜",
+    "t": "竖条纹丝袜，纵向下拢延伸，显腿长",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "波点丝袜",
+    "t": "波点过膝袜，均匀圆点，俏皮复古",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "千鸟格丝袜",
+    "t": "千鸟格过膝袜，黑白格纹，优雅英伦",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "苏格兰格纹袜",
+    "t": "苏格兰格纹袜，经典格子，学院风",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "罗纹丝袜",
+    "t": "罗纹丝袜，纵向罗纹凹凸，显腿部线条",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "满天星丝袜",
+    "t": "满天星丝袜，细碎星点洒满袜身，微光",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "全蕾丝袜",
+    "t": "全蕾丝袜，整条镂空蕾丝，性感镂空花纹",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "雪花薄袜",
+    "t": "雪花薄袜，冬感织纹，北欧风",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "黑色小腿袜",
+    "t": "黑色小腿袜，袜口收在膝下，利落",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "蓝色膝上袜",
+    "t": "蓝色膝上袜，袜口在大腿中段，双色拼接",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "白棉过膝袜",
+    "t": "白色棉质过膝袜，厚实柔软，袜口绒毛翻边",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "clothMat": [
+   {
+    "v": "不使用",
+    "t": "",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "棉质",
+    "t": "棉质面料吸收光线，呈现柔和哑光质感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "针织",
+    "t": "罗纹针织在光下呈现细腻凹凸纹理",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "牛仔",
+    "t": "牛仔斜纹肌理在侧光下清晰可见",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "雪纺",
+    "t": "雪纺轻薄通透，逆光下近乎透明，飘逸轻盈",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "真丝",
+    "t": "真丝泛着温润的珍珠光泽，动作间在丝面滑出流动光带",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "缎面",
+    "t": "缎面在侧逆光下明暗渐变，高光冷白或暖金，暗部浓郁本色",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "蕾丝",
+    "t": "蕾丝镂空花纹在皮肤上投下细密花纹投影",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "薄纱",
+    "t": "薄纱在逆光下几乎透明，肌肤与轮廓若隐若现",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "丝绒",
+    "t": "丝绒在褶皱处形成深邃暗部，高光面泛低调暖光",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "皮革",
+    "t": "皮革表面反射锐利高光，暗部深邃近黑",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "羊绒",
+    "t": "羊绒细密绒毛在逆光下形成柔和轮廓光晕",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "乳胶",
+    "t": "亮面乳胶紧贴身体如第二层皮肤，表面反射锐利白色高光",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "clothPattern": [
+   {
+    "v": "不使用",
+    "t": "不使用"
+   },
+   {
+    "v": "条纹",
+    "t": "条纹"
+   },
+   {
+    "v": "格子",
+    "t": "格子"
+   },
+   {
+    "v": "维希格",
+    "t": "维希格"
+   },
+   {
+    "v": "碎花",
+    "t": "碎花"
+   },
+   {
+    "v": "波点",
+    "t": "波点"
+   },
+   {
+    "v": "千鸟格",
+    "t": "千鸟格"
+   },
+   {
+    "v": "扎染",
+    "t": "扎染"
+   },
+   {
+    "v": "渐变",
+    "t": "渐变"
+   },
+   {
+    "v": "豹纹",
+    "t": "豹纹"
+   },
+   {
+    "v": "色块拼接",
+    "t": "色块拼接"
+   }
+  ],
+  "clothDeco": [
+   {
+    "v": "不使用",
+    "t": "不使用"
+   },
+   {
+    "v": "荷叶边",
+    "t": "荷叶边"
+   },
+   {
+    "v": "压褶",
+    "t": "压褶"
+   },
+   {
+    "v": "蝴蝶结",
+    "t": "蝴蝶结"
+   },
+   {
+    "v": "刺绣",
+    "t": "刺绣"
+   },
+   {
+    "v": "亮片",
+    "t": "亮片"
+   },
+   {
+    "v": "铆钉",
+    "t": "铆钉"
+   },
+   {
+    "v": "流苏",
+    "t": "流苏"
+   },
+   {
+    "v": "蕾丝镶边",
+    "t": "蕾丝镶边"
+   },
+   {
+    "v": "泡泡袖",
+    "t": "泡泡袖"
+   },
+   {
+    "v": "珍珠装饰",
+    "t": "珍珠装饰"
+   },
+   {
+    "v": "镂空蕾丝",
+    "t": "镂空蕾丝"
+   }
+  ],
+  "clothLayer": [
+   {
+    "v": "不使用",
+    "t": "",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "外套随意披在肩头",
+    "t": "外套随意披在肩头",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "衬衫衣摆在腰间打结",
+    "t": "衬衫衣摆在腰间打结",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "衣摆法式半塞进下装",
+    "t": "衣摆法式半塞进下装",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "外层敞开露出内搭",
+    "t": "外层敞开露出内搭",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "单肩滑落的不对称穿法",
+    "t": "单肩滑落的不对称穿法",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "袖口随意卷至小臂",
+    "t": "袖口随意卷至小臂",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "极细腰带在腰间束出腰线",
+    "t": "极细腰带在腰间束出腰线",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "外搭驼色低领针织背心",
+    "t": "外搭驼色低领针织背心",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "宽垫肩西装外套披在肩头",
+    "t": "宽垫肩西装外套披在肩头",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "accessory": [
+   {
+    "v": "不使用",
+    "t": "",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "纤细锁骨链贴着锁骨",
+    "t": "纤细锁骨链贴着锁骨",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "多条项链层叠垂在锁骨间",
+    "t": "多条项链层叠垂在锁骨间",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "银色耳环在发间轻晃",
+    "t": "银色耳环在发间轻晃",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "珍珠耳坠垂在耳畔",
+    "t": "珍珠耳坠垂在耳畔",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "金色身体链沿腰线垂落",
+    "t": "金色身体链沿腰线垂落",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "手腕叠戴多条细手链",
+    "t": "手腕叠戴多条细手链",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "极细黑皮带松松系在胯骨",
+    "t": "极细黑皮带松松系在胯骨",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "一枚细戒指戴在指间",
+    "t": "一枚细戒指戴在指间",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "纤细脚链绕在脚踝",
+    "t": "纤细脚链绕在脚踝",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "黑色丝绒项圈紧贴喉下",
+    "t": "黑色丝绒项圈紧贴喉下",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "十字架吊坠垂在锁骨间",
+    "t": "十字架吊坠垂在锁骨间",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "水晶锁骨链",
+    "t": "锁骨间垂着一条水晶锁骨链，细碎闪亮",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "复古怀表项链",
+    "t": "颈间垂着一枚复古怀表项链",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "珍珠串项链",
+    "t": "颈间叠戴一圈珍珠串项链，温婉贵气",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "金色雏菊耳环",
+    "t": "耳畔垂着金色雏菊耳环",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "流苏耳环",
+    "t": "耳畔垂着长流苏耳环，随动作轻晃",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "几何耳环",
+    "t": "耳畔戴着几何金属耳环，简冽",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "银色手镯",
+    "t": "腕间戴着一只银色手镯",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "细金手链",
+    "t": "腕间一条细金手链",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "皮质编织手环",
+    "t": "腕间一条棕色皮质编织手环",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "层叠戒指",
+    "t": "指间叠戴多枚细戒指",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "金色腰链",
+    "t": "腰际一条金色腰链，随腰肢轻摆",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "宽版皮带",
+    "t": "腰间束着一条宽版皮质腰带，收出腰线",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "丝巾",
+    "t": "颈间系着一条印花丝巾，随意打了个结",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "颈环刺绣",
+    "t": "喉下一条刺绣颈环，贴身贴合",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "钻石耳钉",
+    "t": "耳垂上一颗钻石耳钉，微光",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "nsfwState": [
+   {
+    "v": "正常穿着",
+    "t": "她穿着一件挺括的白衬衫整齐束进黑色高腰包臀裙，最上面的扣子扣到喉下，双腿裹着黑色薄透丝袜。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "滑落微露",
+    "t": "她的白色丝质吊带滑落一侧肩头，带子松松挂在手臂上，衣料敞开的缝隙刚好暗示其下的内容。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "掀起敞开",
+    "t": "她的白衬衫完全解开敞在两侧，勾勒出赤裸的上身；黑色包臀裙被推到腰间，堆叠在胯上。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "半脱",
+    "t": "她的连衣裙被拉到腰间堆在胯上，露出完全赤裸的胸口；一侧胸罩带滑落在肩外。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "仅剩配饰",
+    "t": "她全身赤裸，只有一双白色蕾丝边长筒袜勒在大腿中段，以及一条黑色天鹅绒颈环紧贴喉部。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "破损",
+    "t": "她的校服已经残破——白衬衫从领口到腰腹被撕开，纽扣散落一地，百褶短裙的侧缝被扯裂。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "湿透透视",
+    "t": "她穿着一件被水彻底浸透的白棉衬衫，湿透的衣料半透明地贴住身体的每一处轮廓。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "全裸",
+    "t": "她全身赤裸站立，肌肤光洁完整，只有一层薄薄的汗光在灯下泛亮。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "只余上衣",
+    "t": "她只穿着一件宽大的白衬衫，下摆长过臀部，刚好扫过大腿根，双腿及以下全部裸露。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "只余内衣",
+    "t": "她身上只剩下黑色蕾丝胸罩与同款丁字裤，纤细的带子压进肩头与胯侧。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "裙摆撩起",
+    "t": "她的裙子被提到腰间，裙摆攥在一只手里，胯部刻意向前倾出展示。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "拉链半开",
+    "t": "她连衣裙的拉链沿脊背拉下一半，背后衣料裂开，露出一长条赤裸的皮肤。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "吊带滑落",
+    "t": "她吊带裙的一根细肩带滑落肩头，上身滑下，露出一侧乳房。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "衣襟大敞",
+    "t": "她解开的衬衫大敞着，勾勒出赤裸的胸口，她俯身伏在凌乱的床单上。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "内裤褪到膝",
+    "t": "她的内裤被拉到膝弯，堆在大腿上部、膝盖骨上方的位置。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "裙内真空",
+    "t": "她裙下什么都没穿，每一次轻微动作，裙摆都在赤裸的大腿边轻轻扫动。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "湿透衬衫",
+    "t": "她的白衬衫湿得通透，湿衣贴住皮肤，衣料与身体之间再没有任何隔阂。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "浴巾遮身",
+    "t": "她把一条薄毛巾按在胸前，下摆勉强遮住胯部，光裸的肩头挂着水珠。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "nsfwMod": [
+   {
+    "v": "不使用",
+    "t": "",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "透明化",
+    "t": "她衣物的面料变得薄透，衣下的每一处起伏都透过布料显出来。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "裁剪缩短",
+    "t": "她的衣物被裁得极短，下摆高高吊在胯上。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "镂空开口",
+    "t": "一块菱形镂空落在她赤裸的腰腹上，被绷紧的布料框住。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "破损化",
+    "t": "衣料被撕成参差的布条，勉强还挂在身上。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "乳胶亮面",
+    "t": "光亮的黑色乳胶表面贴住皮肤，反出锐利的白色高光。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "裸露加配饰",
+    "t": "她身上只剩配饰——一顶帽子、一枚别在赤裸胸口的徽章和一副皮手套。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "非对称化",
+    "t": "她衣物的一侧完好如初，另一侧被整片剥开，露出赤裸的皮肤。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "裂口高开衩",
+    "t": "一道深开衩从胯部一直裂到脚踝，每走一步腿侧都大敞。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "挖空后背",
+    "t": "她裙子的整块后幅被剪掉，只剩几根细带横过赤裸的脊背。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "透视蕾丝",
+    "t": "薄透的蕾丝片缝在上身，衣下的轮廓透过镂空隐约可见。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "束紧",
+    "t": "细绳在腰间收紧，把布料勒贴到身上，把每一处曲线都强调出来。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "开胸",
+    "t": "她的上身正面被裁成一个深深下坠的楔口，用一道裸露的 V 形皮肤框住双乳。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "极短化",
+    "t": "她的裙子被剪得只剩胯上一条布带，赤裸的大腿完全暴露。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "撕裂",
+    "t": "撕碎的布条挂在她身上，衣料被扯得四分五裂。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "nsfwFabric": [
+   {
+    "v": "不使用",
+    "t": "",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "黑色乳胶",
+    "t": "面料是光亮的黑色乳胶，像第二层皮肤一样贴住她。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "白色薄纱",
+    "t": "面料是薄透的白色雪纺，轻飘而近乎透明。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "深红丝绒",
+    "t": "面料是深红色天鹅绒，褶皱在灯下泛起浓郁暗沉的层次。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "黑色真丝",
+    "t": "面料是黑色丝绸，带着柔和的光泽在皮肤上滑动。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "湿透棉布",
+    "t": "湿透的白棉布半透明地贴住她身体的每一处曲线。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "透明塑料",
+    "t": "衣物是透明 PVC 材质，在皮肤上捕捉并折散光线。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "亮面皮革",
+    "t": "面料是光亮的黑色皮革，紧硬地塑出她的曲线。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "暗紫蕾丝",
+    "t": "面料是深紫色蕾丝，精巧而通透，花纹在她皮肤上盘绕。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "银白亮片",
+    "t": "面料是闪动的银色亮片，把细碎的光点洒满她全身。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "淡粉薄丝绸",
+    "t": "面料是柔和的浅绯色丝质雪纺，轻薄通透、几乎没有重量。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "墨绿绸缎",
+    "t": "面料是深祖母绿色的缎面，以冷静的光泽顺滑地掠过皮肤。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "脱线粗棉",
+    "t": "面料是粗糙、磨旧的棉布，已经穿得极薄，磨破处透出零星缝隙。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "nsfwShoes": [
+   {
+    "v": "不使用",
+    "t": "",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "黑色细高跟",
+    "t": "脚上还留着一双黑色细高跟鞋。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "黑色过膝长靴",
+    "t": "黑色过膝长靴裹住她的双腿。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "白色蕾丝过膝袜",
+    "t": "薄透的白色蕾丝边长筒袜勒在她的大腿上。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "黑色渔网袜",
+    "t": "黑色网袜紧贴她的双腿。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "赤脚",
+    "t": "她赤着脚踩在地上，脚趾微微蜷起。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "红色细高跟",
+    "t": "一双深红色细高跟鞋落在她脚上，皮面泛亮，格外惹眼。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "白色细高跟",
+    "t": "一双白色细高跟鞋穿在她脚上，在深色地面衬托下格外洁白。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "漆皮过膝靴",
+    "t": "光亮的漆皮长靴越过膝盖，裹住她的双腿。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "吊带袜",
+    "t": "薄透的吊袜带与长筒袜勒在她大腿上，卡扣压进皮肤。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "白色棉袜",
+    "t": "脚上是素净的白色棉质短袜，朴素的样子与她的状态形成对比。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "蕾丝短袜",
+    "t": "脚上是一双精致的蕾丝边短袜，柔软而无辜。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "黑色吊带袜",
+    "t": "黑色薄透长筒袜用吊袜带吊住，袜口轻轻陷进大腿。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "银色金属色长靴",
+    "t": "金属银色的靴子攀上她的小腿，冷冽而发亮。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "nsfwBody": [
+   {
+    "v": "不使用",
+    "t": "",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "面色潮红",
+    "t": "潮红从她的双颊蔓延到颈侧，皮肤随着情绪升高而发烫。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "乳尖挺立",
+    "t": "她的乳尖在衣料下挺立发胀，隔着薄料也看得出硬挺的形状。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "爱液泛滥",
+    "t": "她腿间泛起一层湿亮的光泽，情动已经渗出来把布料洇湿。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "颤栗发抖",
+    "t": "一阵明显的颤栗穿过她的身体，双腿发抖，呼吸一窒。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "失神",
+    "t": "她的目光涣散失焦，头向后仰起，被感官彻底淹没。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "弓身",
+    "t": "她的脊背猛地弓起，胯部不由自主地朝着压下来的力道迎上去。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "细汗沿颈",
+    "t": "细密的汗珠顺着她颈侧的弧线滑下，在昏光里泛着微亮。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "唇间濡湿",
+    "t": "她张开的嘴唇湿润而微肿，带着被反复照顾过的浅淡痕迹。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "耳尖泛红",
+    "t": "她的耳尖泛起深红，把羞意完全出卖。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "呼吸急促",
+    "t": "她的胸口急促而浅地起伏，双唇张开，逸出轻软的喘息。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "腰肢扭动",
+    "t": "她缓慢不安地摇着胯，追着腿间压着的那处寻找刺激。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "大腿摩挲",
+    "t": "她双膝并拢互相磨蹭，腿间湿滑，寻找摩擦。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "咬唇忍耐",
+    "t": "她用力咬住下唇，把快要溢出来的声音咽回去。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "胯部拱起",
+    "t": "她的胯部离开身下的平面向上弓起，想要更多接触。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "肌肤泛粉",
+    "t": "一层玫瑰色的潮红从胸口漫到腿上，铺满她的皮肤。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "双腿大开",
+    "t": "她的双腿大大敞开，坦然无遮，再没有藏起来的部分。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "nsfwProp": [
+   {
+    "v": "不使用",
+    "t": "",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "尾巴栓",
+    "t": "一条毛绒动物尾巴的塞子嵌在她的臀缝之间，底座紧贴着她。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "振动器",
+    "t": "一支细长的按摩棒贴着她嗡嗡作响，持续的震动让她的双腿不住抽动。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "手铐",
+    "t": "她的双腕被钢制手铐铐在一起，金属贴着她的皮肤透着凉意。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "口球",
+    "t": "一只皮质口球横绑在嘴上，把她的声音闷住。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "项圈",
+    "t": "一条黑色皮质项圈扣锁在喉间，正前方挂着一个细小的 D 形环。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "眼罩",
+    "t": "一条深色眼罩蒙住双眼，其余感官绷到极紧，只能依赖触觉。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "绳缚",
+    "t": "深红的绳索在她身上结出整齐的纹样，束住双臂，也勾勒出身体的曲线。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "鞭",
+    "t": "一条细鞭就搁在伸手可及的地方，握柄已被磨得光滑。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "乳夹",
+    "t": "小巧的夹子夹住她的乳尖，之间连着一条短短的银链。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "阴蒂夹",
+    "t": "一枚带坠的小夹挑弄着她最敏感的部位，又痒又涨。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "跳蛋",
+    "t": "一颗小小的跳蛋贴着她，震动一点点累积起来。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "扩张器",
+    "t": "一套光滑的递增尺寸塞具摆在近旁，其中一只已经没入她体内。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "假阳具",
+    "t": "一支仿真的器具湿漉漉地搁在她身边的床单上，刚刚用过。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "内脏模拟器",
+    "t": "一件柔软带纹路的玩具抵在她腿间，形状压进她的身体。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "润滑油",
+    "t": "一瓶透明的润滑液敞着放在旁边，粘稠而发亮。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "精油",
+    "t": "一小瓶按摩油微微溢出，油光在灯下泛亮。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "蜡烛",
+    "t": "近旁的蜡烛上，火苗低低地摇晃，热蜡缓缓滴落。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "poseExtra": [
+   {
+    "v": "不使用",
+    "t": "",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "手指搭拉链",
+    "t": "指尖搭在拉链头上",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "手伸背后解扣",
+    "t": "一只手伸到背后解扣",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "勾裤腰",
+    "t": "拇指勾住裤腰边缘",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "抓床单",
+    "t": "手指抓紧床单",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "指尖轻触唇边",
+    "t": "指尖轻触唇边",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "指尖绕发丝",
+    "t": "指尖缠绕着一缕发丝",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "手抚后颈",
+    "t": "手掌轻轻抚过自己的后颈",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "双手交握在身前",
+    "t": "双手十指交握垂在身前",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "指尖搭在桌面",
+    "t": "指尖轻轻搭在桌面",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "手扶腰侧",
+    "t": "手掌轻轻搭在腰侧",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "指尖滑过锁骨",
+    "t": "指尖沿锁骨线条缓缓滑过",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "手指伸进发间",
+    "t": "手指轻轻插进发间捋了捋",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "指尖勾住袜口",
+    "t": "指尖勾着袜边轻轻拉扯",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "手掌贴墙",
+    "t": "手掌平贴在墙面上",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "握着手腕",
+    "t": "一只手轻轻握住另一只手腕",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "指尖拨弄衣扣",
+    "t": "指尖来回拨弄着衣扣",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "pantyColor": [
+   {
+    "v": "白色",
+    "t": "白色"
+   },
+   {
+    "v": "黑色",
+    "t": "黑色"
+   },
+   {
+    "v": "米白色",
+    "t": "米白色"
+   },
+   {
+    "v": "浅粉色",
+    "t": "浅粉色"
+   },
+   {
+    "v": "雾蓝色",
+    "t": "雾蓝色"
+   },
+   {
+    "v": "肉色",
+    "t": "肉色"
+   },
+   {
+    "v": "淡紫色",
+    "t": "淡紫色"
+   },
+   {
+    "v": "天蓝色",
+    "t": "天蓝色"
+   }
+  ],
+  "pantyStyle": [
+   {
+    "v": "棉质三角",
+    "t": "棉质三角"
+   },
+   {
+    "v": "纯棉平角",
+    "t": "纯棉平角"
+   },
+   {
+    "v": "高腰纯棉",
+    "t": "高腰纯棉"
+   },
+   {
+    "v": "棉质四角",
+    "t": "棉质四角"
+   },
+   {
+    "v": "蕾丝花边",
+    "t": "蕾丝花边"
+   },
+   {
+    "v": "缎面丁字",
+    "t": "缎面丁字"
+   }
+  ],
+  "nsfwPose": [
+   {
+    "v": "单人诱惑",
+    "t": "她跪在地上，双膝大张，腰背深深弓起把胸口向前送出，双手掌心朝上搁在大腿上，呈献上般的姿态。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "单人暴露",
+    "t": "一阵急风从身后掀起她的百褶裙，裙摆翻起，露出白色棉质内裤的整个臀部。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "单人自慰",
+    "t": "她仰躺在揉皱的床单上，一只手埋在大腿之间，腰背离开床面弓起，双唇张开无声地倒抽一口气。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "单人展示",
+    "t": "她背对着穿衣镜跪坐，扭过肩膀回望镜中的自己。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "双人口交",
+    "t": "她跪在他面前，身体前倾把他含入口中，双颊微微凹陷着轻柔吸吮，同时从睫毛下方向上抬眼看他。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "双人足交",
+    "t": "她俯卧着，两只脚掌贴合成夹，回头越过肩膀顽皮地笑着看他。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "双人乳交",
+    "t": "她跪在他面前，把丰满的双乳挤压成紧致的一道缝隙，伸出舌尖挑弄顶端。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "双人手交",
+    "t": "她坐在他身旁，一只手环握着他缓慢而笃定地上下套弄，每一次经过都用拇指绕着顶端打转。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "双人调戏",
+    "t": "她被人群挤在拥挤车厢的墙边，一个陌生人的手从裙下滑上她的大腿。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "传教士",
+    "t": "她仰躺着，双腿缠在他腰上，脚踝在他后腰处交扣，把他往更深处拉。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "站立位",
+    "t": "她面朝墙壁站立，双掌平贴墙面，腰背弓起，臀部向后朝他送出。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "坐身位",
+    "t": "她面对他坐在他腿上，双腿盘住他的腰，臀部以缓慢研磨的节奏前后摇动。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "后入位",
+    "t": "她四肢着地，腰背深深下陷，他双手扣住她的腰，从身后挺入。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "火车便当",
+    "t": "他双手托住她的大腿把她整个人抱离地面，她的双腿盘在他腰上。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "种付位",
+    "t": "他整个人压覆在她身上，她的双腿被折起压向自己胸口，他的重量把她陷进床垫里。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "骑乘位",
+    "t": "她面向前跨坐在他身上，双手撑着他的胸口，以稳定的节奏起伏耸动。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "睡奸",
+    "t": "她仰躺着熟睡，双唇微微张开，双腿被落在中间的那具身体的重量小心分开。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "攻守反转",
+    "t": "她正坐在他脸上，两膝分跪在他头部两侧，主导权彻底反转。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "过激",
+    "t": "他一只手扣住她的喉咙把她按在床上，力道刚好收紧到让她的视线发花。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "多人",
+    "t": "她四肢着地被夹在两个男人之间——一个跪在她面前由她含入口中，另一个在身后挺入。",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "nsfwChain": [
+   {
+    "v": "不使用",
+    "t": "",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "强制链",
+    "t": "，双腕被反剪在身后，身体在束缚下不停发抖",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "失神链",
+    "t": "，目光渐渐失焦，双唇张开，逸出一声恍惚的叹",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "羞耻链",
+    "t": "，双颊泛红，眼神因羞涩而躲开他的视线",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "运动链",
+    "t": "，动作稳定而富有节奏，皮肤在光下泛亮",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "事后链",
+    "t": "，身体松软无力地颤抖，呼吸碎成一连串短促的气",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "喘息链",
+    "t": "，头向后仰起，双唇张开，喘得支离破碎",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "求饶链",
+    "t": "，一声央求般的低语从她张开的唇间逸出",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "僵直链",
+    "t": "，身体骤然绷紧，脚趾蜷起，僵在原地",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "潮湿链",
+    "t": "，皮肤被一层细密的水光打湿",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "scene": [
+   {
+    "v": "卧室",
+    "t": "简约卧室，白色床单微皱，淡紫色窗帘半掩，背景虚化",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "情人旅馆",
+    "t": "情人旅馆，镜面天花板反射霓虹，粉色调灯光暧昧",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "温泉",
+    "t": "露天温泉，氤氲蒸汽与木纹浴池，暖光在雾气中晕开",
+    "risk": false,
+    "nsfw": false,
+    "water": true
+   },
+   {
+    "v": "浴室",
+    "t": "浴室里，瓷砖墙面与雾面玻璃，水汽朦胧",
+    "risk": false,
+    "nsfw": false,
+    "water": true
+   },
+   {
+    "v": "酒店套房",
+    "t": "顶层酒店套房落地窗前，窗外城市夜景灯火虚化为冷色光斑，大理石地面倒映光点",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "教室",
+    "t": "放学后的教室，荧光灯与黑板，木桌整齐排列，背景虚化",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "图书馆",
+    "t": "图书馆书架之间，暖黄台灯与旧书气息",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "办公室",
+    "t": "办公室，百叶窗影落在桌面，显示器微光，咖啡杯搁在一旁",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "电车",
+    "t": "末班电车内，荧光灯与不锈钢扶手，窗外灯火掠过",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "车内",
+    "t": "车内，仪表盘微光与窗外路灯光交替掠过，皮革座椅",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "便利店",
+    "t": "深夜便利店，冷柜灯光明亮，货架整齐",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "点歌厅",
+    "t": "包厢内，霓虹与点歌屏幕的光线交织",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "更衣室",
+    "t": "更衣室，镜面与布帘，暖黄灯光",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "夜店",
+    "t": "夜店，彩色霓虹与频闪灯光交错，人群虚化",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "风俗店",
+    "t": "昏暗的店内，丝绒沙发与暧昧灯光",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "医院",
+    "t": "医院病房，冷白荧光与不锈钢器械，窗帘半掩",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "按摩院",
+    "t": "按摩院，按摩床与香薰烛光",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "公寓",
+    "t": "公寓房间，暖黄灯光与生活杂物，窗台绿植",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "天台",
+    "t": "天台，城市夜景与星空，夜风掠过",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "海边",
+    "t": "海边，海浪拍岸，落日余晖洒在水面",
+    "risk": false,
+    "nsfw": false,
+    "water": true
+   },
+   {
+    "v": "夜晚公园",
+    "t": "夜晚公园，路灯与树影，长椅旁的草地",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "后巷",
+    "t": "后巷，昏暗路灯与涂鸦墙，地面积水的反光",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "和室",
+    "t": "和室，障子纸透进柔光，榻榻米纹理清晰",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "神社",
+    "t": "神社，朱红鸟居与石灯笼，暮色中安静",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "影棚",
+    "t": "影棚，柔光箱与背景纸，地面反光板",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "水下",
+    "t": "水下，波光穿过水面，光线在水中折射",
+    "risk": false,
+    "nsfw": false,
+    "water": true
+   },
+   {
+    "v": "监禁密室",
+    "t": "昏暗密室，铁门紧闭，头顶一盏昏黄灯泡",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "镜屋",
+    "t": "镜屋，无数镜面相互反射，人影在镜中无限延伸",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "咖啡馆",
+    "t": "老式咖啡馆，暖黄灯光，木质桌椅与咖啡香气",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "画室",
+    "t": "画室，画架与未完成的油画，自然天光从北窗洒入",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "美术馆",
+    "t": "美术馆，白墙与射灯，油画挂在墙边",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "雪地",
+    "t": "雪地，细雪覆盖地面，呼出的白气在冷空气中散开",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "露天阳台",
+    "t": "露天阳台，藤椅与绿植，远处城市天际线",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "电梯间",
+    "t": "电梯间，金属内壁反光，楼层数字跳动",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "婚纱店",
+    "t": "婚纱店，镜面与白色纱裙陈列，柔光",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "樱花树下",
+    "t": "樱花树下，花瓣随风飘落，粉色花影",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "竹林",
+    "t": "竹林，绿影摇曳，光斑洒落地面",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "老旧出租屋",
+    "t": "老旧出租屋，暖黄灯泡，斑驳墙面与旧家具",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "晨光客厅",
+    "t": "晨光明亮的客厅，落地窗洒入暖阳，布艺沙发与绿植",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "黄昏天台",
+    "t": "黄昏天台，余晖染金，晾晒的白色床单随风轻摆",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "书店",
+    "t": "独立书店，木质书架与暖黄灯光，旧书气息弥漫",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "花房",
+    "t": "玻璃花房，繁茂绿植与各色花朵，天光透过玻璃洒落",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "温泉旅馆庭院",
+    "t": "日式温泉旅馆庭院，踏石小径与石灯，暮色中安静",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "音乐教室",
+    "t": "音乐教室，钢琴与乐谱架，午后阳光斜照",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "健身房",
+    "t": "健身房，落地镜面与器材，明亮日光",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "泳池边",
+    "t": "泳池边，蓝色池水反光，躺椅与遮阳伞",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "雨天咖啡窗",
+    "t": "雨天咖啡馆窗边，雨珠顺着玻璃滑落，暖黄灯光",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "复古火车厢",
+    "t": "复古火车厢，绿色绒座与木质窗框，窗外风景掠过",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "图书馆廊道",
+    "t": "图书馆高挑廊道，拱形窗与大书架，安静神圣",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "欧式洋房楼梯",
+    "t": "欧式洋房旋转楼梯，雕花扶手，窗格阳光层叠",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "夜宵摊",
+    "t": "路边夜宵摊，暖黄灯泡，热气升腾，市井烟火气",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "沙漠公路",
+    "t": "沙漠公路旁，空旷天际线，烈日与长风",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "森林深处",
+    "t": "森林深处，古树遮天，光柱穿过树冠落下",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "屋顶泳池夜",
+    "t": "屋顶泳池夜景，水面倒映城市灯火，微风",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "prop": [
+   {
+    "v": "不使用",
+    "t": "",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "红酒杯",
+    "t": "一杯红酒搁在台面，酒液泛着暗光",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "清酒",
+    "t": "一壶清酒与酒杯摆在矮几上",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "香烟",
+    "t": "指间夹着细长香烟，烟雾袅袅",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "蜡烛",
+    "t": "几支蜡烛在旁燃烧，烛焰轻摇",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "冰块",
+    "t": "玻璃杯中的冰块泛着冷光",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "玫瑰花瓣",
+    "t": "玫瑰花瓣散落在身侧",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "书籍",
+    "t": "一本摊开的书搁在一旁",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "眼镜",
+    "t": "一副圆框眼镜握在指间",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "枕头",
+    "t": "枕头堆在身后",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "手机",
+    "t": "手机举在脸侧，屏幕亮着",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "拍立得",
+    "t": "一张拍立得照片夹在指间",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "单反相机",
+    "t": "单反相机挂在颈间",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "猫",
+    "t": "一只猫卧在床边，尾巴轻摆",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "兔子",
+    "t": "一只兔子蹲在脚边",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "耳机",
+    "t": "头戴式耳机挂在颈间",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "游戏手柄",
+    "t": "游戏手柄搁在膝边",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "钞票",
+    "t": "几张钞票散落桌面",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "名片",
+    "t": "一张名片放在桌面",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "房卡",
+    "t": "房卡搁在床头柜上",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "手铐",
+    "t": "银色手铐松松扣在腕间",
+    "risk": false,
+    "nsfw": true,
+    "water": false
+   },
+   {
+    "v": "眼罩",
+    "t": "黑色眼罩搭在额前",
+    "risk": false,
+    "nsfw": true,
+    "water": false
+   },
+   {
+    "v": "绳索",
+    "t": "红绳缠绕在腕间与脚踝",
+    "risk": false,
+    "nsfw": true,
+    "water": false
+   },
+   {
+    "v": "振动棒",
+    "t": "振动棒握在手中",
+    "risk": false,
+    "nsfw": true,
+    "water": false
+   },
+   {
+    "v": "跳蛋",
+    "t": "跳蛋被遥控器控制着",
+    "risk": false,
+    "nsfw": true,
+    "water": false
+   },
+   {
+    "v": "口球",
+    "t": "口球握在手中",
+    "risk": false,
+    "nsfw": true,
+    "water": false
+   },
+   {
+    "v": "项圈牵绳",
+    "t": "项圈与牵绳系在颈间",
+    "risk": false,
+    "nsfw": true,
+    "water": false
+   },
+   {
+    "v": "吉他",
+    "t": "一把木吉他斜靠在身侧",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "咖啡杯",
+    "t": "一杯冒热气的咖啡搁在手边",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "风筝",
+    "t": "一只风筝握在手中，线轴缠着细线",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "画框",
+    "t": "一个空画框立在身后",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "洋娃娃",
+    "t": "一只布艺洋娃娃抱在怀中",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "自行车",
+    "t": "一辆自行车停在身旁",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "棒棒糖",
+    "t": "一根棒棒糖含在嘴里",
+    "risk": false,
+    "nsfw": true,
+    "water": false
+   },
+   {
+    "v": "小提琴",
+    "t": "一把小提琴搁在肩侧，琴弓斜放",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "相机",
+    "t": "一部复古相机挂在颈间，皮绳细长",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "老式收音机",
+    "t": "一台老式收音机搁在床头，指示灯微亮",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "风铃",
+    "t": "一串风铃垂在窗边，微风轻响",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "纸扇",
+    "t": "一把折扇握在手中，扇面绘着花鸟",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "雨伞",
+    "t": "一把透明雨伞撑在身侧，水珠滑落",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "行李箱",
+    "t": "一只复古行李箱立在脚边，皮面磨旧",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "热气球模型",
+    "t": "一只热气球模型搁在桌面，色彩斑斓",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "老相册",
+    "t": "一本老相册摊开在膝上，照片泛黄",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "糖果盒",
+    "t": "一盒水果糖搁在手边，彩色糖纸",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "油纸伞",
+    "t": "一把油纸伞斜倚在墙角，古典雅致",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "长笛",
+    "t": "一支长笛横握在手中，银色管身",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "望远镜",
+    "t": "一台双筒望远镜放在窗台，望向远方",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "老式电话",
+    "t": "一台老式转盘电话搁在桌面，复古",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "羽毛笔",
+    "t": "一支羽毛笔搁在信纸上，墨水未干",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "香薰蜡烛",
+    "t": "几支香薰蜡烛在旁燃烧，烛光摇曳",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "藤编篮",
+    "t": "一只藤编野餐篮放在脚边，露出印染布角",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "风筝线轴",
+    "t": "一只风筝线轴握在手中，细线拉紧",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "weather": [
+   {
+    "v": "不使用",
+    "t": "",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "晴空万里",
+    "t": "天气晴好，阳光明亮",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "细雨斜落",
+    "t": "细雨斜斜落下，空气微凉",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "阴天柔光",
+    "t": "阴天云层滤出柔光",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "细雪飘落",
+    "t": "细雪轻轻飘落",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "夜色深沉",
+    "t": "夜色深沉，灯火点点",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "黄昏暮色",
+    "t": "黄昏暮色染透半边天空",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "蒸汽朦胧",
+    "t": "蒸汽朦胧升腾",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "水光浮动",
+    "t": "水面波光浮动",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "薄雾缭绕",
+    "t": "薄雾淡淡缭绕，远景柔化",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "晨雾弥漫",
+    "t": "清晨雾气弥漫，光线朦胧",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "星空璀璨",
+    "t": "夜空星子清晰，泛着冷光",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "风起",
+    "t": "微风拂过，衣角与发丝轻轻摆动",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "雨后初晴",
+    "t": "雨后天光初透，空气湿润清新",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "comp": [
+   {
+    "v": "三分法",
+    "t": "构图采用三分法",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "对角线",
+    "t": "构图采用对角线布局，人物身体斜跨画面，从一角延伸至对角",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "框架构图",
+    "t": "前景元素形成天然画框将人物框入其中，画中画聚焦",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "镜面反射构图",
+    "t": "镜框作为天然框架将画面一分为二，镜外真实人物占据前景一侧，镜内倒影占据另一侧",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "负空间",
+    "t": "大面积空白包围人物，极简留白强化主体",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "引导线",
+    "t": "环境线条汇聚引导视线至人物面部，纵深与戏剧性并存",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "中心对称",
+    "t": "人物居中，左右环境完美对称，庄重的仪式感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "前景遮挡",
+    "t": "前景虚化元素部分遮挡人物，制造层次与窥视感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "倾斜构图",
+    "t": "画面整体倾斜打破水平线，不安与动态张力",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "螺旋构图",
+    "t": "人物置于黄金螺旋线末端，视线沿螺旋自然聚焦",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "十字构图",
+    "t": "人物居于画面正中，横竖线条交叉处形成视觉重心",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "三角形构图",
+    "t": "人与环境构成稳定三角形，视觉重心稳固",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "对称平衡",
+    "t": "左右元素对称排布，画面均衡稳定",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "compPos": [
+   {
+    "v": "居于画面中央",
+    "t": "居于画面中央",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "偏于左侧三分之一处",
+    "t": "偏于左侧三分之一处，右侧留白形成呼吸感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "偏于右侧三分之一处",
+    "t": "偏于右侧三分之一处，左侧留白形成呼吸感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "置于画面左下角",
+    "t": "置于画面左下角，右上留白",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "置于画面右下角",
+    "t": "置于画面右下角，左上留白",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "向画外延伸",
+    "t": "身体线条向画外延伸",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "styleTag": [
+   {
+    "v": "不使用",
+    "t": "",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "电影剧照",
+    "t": "电影剧照",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "时尚大片",
+    "t": "时尚大片",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "闺房摄影",
+    "t": "闺房摄影",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "拍立得快照",
+    "t": "拍立得快照",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "复古照",
+    "t": "复古照",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "抓拍纪实",
+    "t": "抓拍纪实",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "街头",
+    "t": "街头随拍",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "夜景",
+    "t": "夜景",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "影棚",
+    "t": "影棚棚拍",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "私密照",
+    "t": "私密照",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "写真偶像",
+    "t": "写真偶像",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "素人自拍",
+    "t": "素人自拍",
+    "risk": false,
+    "nsfw": true,
+    "water": false
+   },
+   {
+    "v": "成人摄影截图",
+    "t": "成人摄影截图",
+    "risk": false,
+    "nsfw": true,
+    "water": false
+   },
+   {
+    "v": "软色情",
+    "t": "软色情",
+    "risk": false,
+    "nsfw": true,
+    "water": false
+   },
+   {
+    "v": "艺术裸体",
+    "t": "艺术裸体",
+    "risk": false,
+    "nsfw": true,
+    "water": false
+   },
+   {
+    "v": "闺房私照",
+    "t": "闺房私照",
+    "risk": false,
+    "nsfw": true,
+    "water": false
+   }
+  ],
+  "film": [
+   {
+    "v": "不使用",
+    "t": "",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "暖调人像",
+    "t": "整体呈现暖调胶片质感，细颗粒、柔和对比、奶油肤感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "暖调怀旧",
+    "t": "整体呈现暖黄怀旧胶片质感，颗粒明显，家庭纪念照般的温馨",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "高饱和",
+    "t": "整体呈现高饱和胶片质感，浓郁锐利，杂志封面感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "素人感",
+    "t": "整体呈现日常胶片质感，暖调松弛，生活记录感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "霓虹夜",
+    "t": "整体呈现霓虹夜胶片质感，暖光与蓝调阴影交织，光晕扩散",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "冷调纪实",
+    "t": "整体呈现冷调纪实质感，低饱和灰调，克制疏离",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "昭和复古",
+    "t": "整体呈现昭和复古质感，褪色暖调，旧时光的怀旧",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "黑白质感",
+    "t": "整体呈现黑白高对比质感，粗颗粒，硬朗",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "黑白艺术",
+    "t": "整体呈现黑白细腻质感，深黑丝滑，艺术感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "冷调科技",
+    "t": "整体呈现冷蓝干净质感，冷静克制",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "梦幻唯美",
+    "t": "整体呈现梦幻柔和质感，通透仙气，写真感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "过期胶片",
+    "t": "整体呈现过期胶片质感，褪色偏色，轻微雾感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "法式浪漫",
+    "t": "整体呈现淡雅法式胶片质感，低饱和通透，柔美",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "日系清新",
+    "t": "整体呈现日系清新胶片质感，明亮通透，干净",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "朦胧柔焦",
+    "t": "整体呈现朦胧柔焦质感，光线化开，梦幻",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "老照片",
+    "t": "整体呈现泛黄老照片质感，颗粒与褪色并存，怀旧",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "cine": [
+   {
+    "v": "不使用",
+    "t": "",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "暖柔电影感",
+    "t": "奶油般的柔和焦外，暖肤色，光线自然晕染",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "现代锐利",
+    "t": "干净锐利的现代电影镜头质感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "经典好莱坞",
+    "t": "椭圆焦外，宽银幕比例，蓝色眩光",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "梦幻奢华",
+    "t": "梦幻焦外，人物从背景中立体剥离",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "通用人像",
+    "t": "奶油般的柔和焦外，暖肤色",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "复古俄头",
+    "t": "漩涡状焦外，柔和复古柔焦",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "imperf": [
+   {
+    "v": "不使用",
+    "t": "",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "雀斑",
+    "t": "脸颊散落细碎雀斑",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "美人痣",
+    "t": "唇角一粒美人痣",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "自然毛孔",
+    "t": "皮肤保留自然毛孔与细腻纹理",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "淡疤",
+    "t": "膝盖一道淡淡旧疤",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "锁骨突出",
+    "t": "锁骨线条清晰突出",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "胶片颗粒",
+    "t": "画面带有轻微胶片颗粒",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "镜头眩光",
+    "t": "镜头边缘有轻微眩光",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "轻微失焦",
+    "t": "焦点略带轻微失焦的胶片感",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "褶皱床单",
+    "t": "身下床单被压出褶皱",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "湿发贴脖",
+    "t": "湿发贴在后颈",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "潮红",
+    "t": "面颊泛着微微潮红",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "汗水",
+    "t": "细密汗珠沿皮肤滑落",
+    "risk": false,
+    "nsfw": true,
+    "water": false
+   },
+   {
+    "v": "压痕",
+    "t": "皮肤上留着浅浅压痕",
+    "risk": false,
+    "nsfw": true,
+    "water": false
+   },
+   {
+    "v": "唾液拉丝",
+    "t": "唇角牵连着透明的唾液细丝",
+    "risk": false,
+    "nsfw": true,
+    "water": false
+   },
+   {
+    "v": "指尖微颤",
+    "t": "指尖不受控制地微微颤动",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "发丝凌乱",
+    "t": "发丝微微凌乱，散落脸侧",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   },
+   {
+    "v": "唇印",
+    "t": "唇角留着淡去的唇印",
+    "risk": false,
+    "nsfw": false,
+    "water": false
+   }
+  ],
+  "tattoo": [
+   {
+    "v": "不使用",
+    "t": "不使用"
+   },
+   {
+    "v": "小爱心",
+    "t": "小爱心"
+   },
+   {
+    "v": "樱花",
+    "t": "樱花"
+   },
+   {
+    "v": "猫爪印",
+    "t": "猫爪印"
+   },
+   {
+    "v": "蛇",
+    "t": "蛇"
+   },
+   {
+    "v": "大玫瑰",
+    "t": "大玫瑰"
+   },
+   {
+    "v": "腰链纹身",
+    "t": "腰链纹身"
+   },
+   {
+    "v": "黑桃Q",
+    "t": "黑桃Q"
+   },
+   {
+    "v": "毛笔字",
+    "t": "毛笔字"
+   },
+   {
+    "v": "昇龙",
+    "t": "昇龙"
+   },
+   {
+    "v": "小星星",
+    "t": "小星星"
+   },
+   {
+    "v": "月牙",
+    "t": "月牙"
+   },
+   {
+    "v": "藤蔓",
+    "t": "藤蔓"
+   },
+   {
+    "v": "蝴蝶",
+    "t": "蝴蝶"
+   },
+   {
+    "v": "燕子",
+    "t": "燕子"
+   },
+   {
+    "v": "水滴红心",
+    "t": "水滴红心"
+   },
+   {
+    "v": "双心交织",
+    "t": "双心交织"
+   },
+   {
+    "v": "四叶草",
+    "t": "四叶草"
+   },
+   {
+    "v": "星座连线",
+    "t": "星座连线"
+   },
+   {
+    "v": "向日葵",
+    "t": "向日葵"
+   },
+   {
+    "v": "蔷薇花枝",
+    "t": "蔷薇花枝"
+   },
+   {
+    "v": "中国龙纹",
+    "t": "中国龙纹"
+   },
+   {
+    "v": "凤凰",
+    "t": "凤凰"
+   },
+   {
+    "v": "向日葵枝",
+    "t": "向日葵枝"
+   },
+   {
+    "v": "十字架",
+    "t": "十字架"
+   },
+   {
+    "v": "音符",
+    "t": "音符"
+   },
+   {
+    "v": "几何线条",
+    "t": "几何线条"
+   },
+   {
+    "v": "羽翼",
+    "t": "羽翼"
+   },
+   {
+    "v": "眼睛图案",
+    "t": "眼睛图案"
+   }
+  ],
+  "tattooPos": [
+   {
+    "v": "锁骨",
+    "t": "锁骨"
+   },
+   {
+    "v": "小腹",
+    "t": "小腹"
+   },
+   {
+    "v": "后颈",
+    "t": "后颈"
+   },
+   {
+    "v": "大腿内侧",
+    "t": "大腿内侧"
+   },
+   {
+    "v": "臀部",
+    "t": "臀部"
+   },
+   {
+    "v": "手腕",
+    "t": "手腕"
+   },
+   {
+    "v": "脚踝",
+    "t": "脚踝"
+   },
+   {
+    "v": "胸口",
+    "t": "胸口"
+   },
+   {
+    "v": "背部",
+    "t": "背部"
+   },
+   {
+    "v": "腰侧",
+    "t": "腰侧"
+   },
+   {
+    "v": "肩胛骨",
+    "t": "肩胛骨"
+   },
+   {
+    "v": "肋骨侧",
+    "t": "肋骨侧"
+   },
+   {
+    "v": "耳后",
+    "t": "耳后"
+   },
+   {
+    "v": "手指",
+    "t": "手指"
+   },
+   {
+    "v": "小腿外侧",
+    "t": "小腿外侧"
+   },
+   {
+    "v": "肩头",
+    "t": "肩头"
+   },
+   {
+    "v": "肚脐下方",
+    "t": "肚脐下方"
+   }
+  ],
+  "stylePreset": [
+   {
+    "v": "不使用",
+    "t": "不使用"
+   },
+   {
+    "v": "法式优雅",
+    "t": "法式优雅"
+   },
+   {
+    "v": "千禧辣妹",
+    "t": "千禧辣妹"
+   },
+   {
+    "v": "哥特暗黑",
+    "t": "哥特暗黑"
+   },
+   {
+    "v": "美式学院",
+    "t": "美式学院"
+   },
+   {
+    "v": "极简主义",
+    "t": "极简主义"
+   },
+   {
+    "v": "芭蕾风",
+    "t": "芭蕾风"
+   },
+   {
+    "v": "复古港风",
+    "t": "复古港风"
+   },
+   {
+    "v": "办公室海妖",
+    "t": "办公室海妖"
+   },
+   {
+    "v": "暗黑甜心",
+    "t": "暗黑甜心"
+   },
+   {
+    "v": "新中式旗袍",
+    "t": "新中式旗袍"
+   },
+   {
+    "v": "国风汉服",
+    "t": "国风汉服"
+   },
+   {
+    "v": "冬日大衣",
+    "t": "冬日大衣"
+   },
+   {
+    "v": "樱花和服",
+    "t": "樱花和服"
+   }
+  ]
+ },
+ "cloth": {
+  "内衣/睡衣": {
+   "内衣": [
+    [
+     "黑色蕾丝无钢圈内衣",
+     "黑色蕾丝无钢圈内衣，镂空花纹透出肌肤底色"
+    ],
+    [
+     "白色运动内衣",
+     "白色运动内衣，宽肩带压住锁骨，面料厚实哑光"
+    ],
+    [
+     "黑色抹胸",
+     "黑色抹胸紧裹上身，上缘平直利落"
+    ],
+    [
+     "黑色蕾丝连体衣",
+     "黑色蕾丝连体衣紧贴身体，前胸镂空花纹透出肌肤"
+    ],
+    [
+     "酒红色蕾丝内衣套装",
+     "酒红色蕾丝内衣套装，同色蕾丝内裤，肩带可调节"
+    ],
+    [
+     "粉色棉质少女内衣",
+     "粉色棉质少女内衣，胸前点缀小蝴蝶结，清爽甜美"
+    ],
+    [
+     "白色刺绣薄纱内衣",
+     "白色刺绣薄纱内衣，胸前浅色刺绣花纹，轻盈通透"
+    ]
+   ],
+   "睡裙": [
+    [
+     "香槟色缎面吊带睡裙",
+     "香槟色缎面吊带睡裙，细肩带在锁骨两侧微反光，裙身垂坠至大腿中部"
+    ],
+    [
+     "象牙白缎面吊带背心",
+     "象牙白缎面吊带背心，细肩带在锁骨两侧滑落"
+    ],
+    [
+     "黑色丝绸吊带睡裙",
+     "黑色丝绸吊带睡裙，深V领口，裙摆垂至大腿中部，泛着冷色光泽"
+    ],
+    [
+     "白色荷叶边睡裙",
+     "白色棉质睡裙，荷叶边领口与袖口，裙摆及膝，清纯"
+    ],
+    [
+     "粉色蝴蝶结睡裙",
+     "粉色吊带睡裙，胸前蝴蝶结系带，细肩带"
+    ],
+    [
+     "雾蓝色缎面睡裙",
+     "雾蓝色缎面睡裙，肩带纤细，裙摆微开衩，温柔光泽"
+    ]
+   ],
+   "睡衣": [
+    [
+     "米白色真丝睡袍",
+     "米白色真丝睡袍敞开披在肩头，面料轻薄通透"
+    ],
+    [
+     "白色棉质长袖睡衣",
+     "白色棉质长袖睡衣，纽扣整齐系至锁骨，面料厚实柔软"
+    ],
+    [
+     "蓝白条纹睡衣套装",
+     "蓝白细条纹衬衫式睡衣套装，纽扣前襟，裤脚微卷"
+    ],
+    [
+     "灰色宽松卫衣睡衣",
+     "灰色宽松连帽卫衣睡衣套装，柔软棉质，袖口宽松堆叠"
+    ],
+    [
+     "白色棉质背心短裤",
+     "白色纯棉背心与同色棉质短裤，家居慵懒感"
+    ],
+    [
+     "黑色缎面短睡袍",
+     "黑色缎面短睡袍，腰带随意系结，下摆只到大腿根部"
+    ]
+   ]
+  },
+  "上衣": {
+   "内搭吊带": [
+    [
+     "奶白色罗纹针织短款吊带背心",
+     "奶白色罗纹针织短款吊带背心，短至胸下缘，露出平坦腰腹"
+    ],
+    [
+     "黑色一字肩上衣",
+     "黑色一字肩上衣，肩线低至肩头以下，露出两侧锁骨与圆润肩头"
+    ],
+    [
+     "深蓝挂脖上衣",
+     "深蓝挂脖上衣，布料绕颈交叉，大片背部裸露"
+    ],
+    [
+     "黑色紧身背心",
+     "黑色紧身背心，深V领口，贴合上身曲线"
+    ],
+    [
+     "白色棉质背心",
+     "白色棉质背心，宽松领口，肩带略宽，清爽日常"
+    ],
+    [
+     "酒红色丝绒吊带",
+     "酒红色丝绒吊带，细肩带，胸口微微低垂，温润哑光"
+    ],
+    [
+     "银色亮片吊带",
+     "银色亮片吊带背心，派对风格，灯光下闪烁"
+    ],
+    [
+     "白色缎面吊带背心",
+     "白色缎面吊带背心，细肩带，面料泛珍珠光泽"
+    ]
+   ],
+   "衬衫": [
+    [
+     "白色棉质宽松衬衫",
+     "白色棉质宽松衬衫，领口微敞两颗纽扣，袖口随意挽至小臂"
+    ],
+    [
+     "白色丝质衬衫",
+     "白色丝质衬衫，面料垂顺泛着柔和光泽"
+    ],
+    [
+     "复古波点衬衫",
+     "复古波点衬衫，泡泡袖，领口微敞"
+    ],
+    [
+     "浅蓝色牛津衬衫",
+     "浅蓝色牛津衬衫，纽扣前襟，袖口翻折至小臂"
+    ],
+    [
+     "奶黄色法式衬衫",
+     "奶黄色法式衬衫，飘带领口，泡泡袖，温柔法式感"
+    ],
+    [
+     "黑色薄纱透视衬衫",
+     "黑色薄纱透视衬衫，内衬同色，神秘性感"
+    ],
+    [
+     "蓝白竖条纹衬衫",
+     "蓝白竖条纹宽松衬衫，下摆垂至大腿中部"
+    ]
+   ],
+   "针织毛衣": [
+    [
+     "黑色高领针织毛衣",
+     "黑色高领针织毛衣，领口包裹整个颈部，面料柔软厚实"
+    ],
+    [
+     "黑色丝绒紧身上衣",
+     "黑色丝绒紧身上衣，贴合身体，温润哑光"
+    ],
+    [
+     "淡粉色裹身上衣",
+     "淡粉色裹身上衣，交叉系带收出腰线"
+    ],
+    [
+     "奶白色宽松毛衣",
+     "奶白色宽松针织毛衣，宽松落肩，袖口堆叠至手背"
+    ],
+    [
+     "焦糖色短款毛衣",
+     "焦糖色短款毛衣，下摆收紧，露出腰线"
+    ],
+    [
+     "深绿色高领毛衣",
+     "深绿色高领毛衣，复古温暖，针织纹理细腻"
+    ],
+    [
+     "红色慵懒毛衣",
+     "红色圆领毛衣，慵懒宽松，节日氛围"
+    ],
+    [
+     "燕麦色高领毛衣",
+     "燕麦色高领毛衣，针织细腻，温柔质感"
+    ],
+    [
+     "紫色开衫毛衣",
+     "紫色针织开衫，扣子敞开，内搭吊带"
+    ],
+    [
+     "蓝白条纹海魂衫",
+     "蓝白条纹海魂衫，经典水手风，宽松"
+    ]
+   ],
+   "西装风衣": [
+    [
+     "深灰色西装外套",
+     "深灰色西装外套，垫肩利落，腰部收腰剪裁"
+    ],
+    [
+     "卡其色风衣",
+     "卡其色风衣，双排扣，腰带随意系结，衣摆至小腿"
+    ],
+    [
+     "米白色西装外套",
+     "米白色西装外套，宽松版型，垫肩，气场柔和"
+    ],
+    [
+     "格纹西装外套",
+     "格纹西装外套，复古英伦风，三粒扣"
+    ],
+    [
+     "黑色短款皮衣",
+     "黑色短款皮衣，拉链半敞，硬朗质感"
+    ],
+    [
+     "浅蓝色牛仔外套",
+     "浅蓝色牛仔外套，做旧质感，袖口微卷"
+    ],
+    [
+     "白色宽松西装",
+     "白色宽松西装外套，落肩宽垫肩，慵懒高级"
+    ],
+    [
+     "棕色格纹大衣",
+     "棕色格纹羊毛大衣，浴袍式系带，复古"
+    ]
+   ]
+  },
+  "下装": {
+   "裙装": [
+    [
+     "深灰色百褶短裙",
+     "深灰色百褶短裙，裙摆仅覆大腿根部，每道压褶明暗交替"
+    ],
+    [
+     "黑色紧身短裙",
+     "黑色紧身短裙包裹臀部与大腿，侧边银色拉链延伸至裙摆"
+    ],
+    [
+     "米色包臀裙",
+     "米色包臀裙过膝，面料贴合每一寸曲线"
+    ],
+    [
+     "白色网球裙",
+     "白色网球裙，内置打底短裤，裙摆百褶从腰线散开"
+    ],
+    [
+     "白色纱裙",
+     "白色层叠纱裙，轻盈蓬松，裙摆垂至脚踝"
+    ],
+    [
+     "黑色A字短裙",
+     "黑色A字短裙，硬挺面料，裙摆微微张开"
+    ],
+    [
+     "粉色格纹短裙",
+     "粉色格纹短裙，学院风，纽扣装饰"
+    ],
+    [
+     "牛仔短裙",
+     "浅蓝色牛仔短裙，磨边下摆，休闲"
+    ],
+    [
+     "酒红色灯芯绒半身裙",
+     "酒红色灯芯绒半身裙，及膝，复古质感"
+    ],
+    [
+     "黑色长款百褶裙",
+     "黑色长款百褶裙，裙摆垂至脚踝，随步伐摆动"
+    ],
+    [
+     "卡其色工装短裙",
+     "卡其色工装短裙，多个口袋，中性帅气"
+    ],
+    [
+     "米白色缎面长裙",
+     "米白色缎面长裙，垂坠至脚踝，优雅光泽"
+    ]
+   ],
+   "裤装": [
+    [
+     "黑色牛仔热裤",
+     "黑色牛仔热裤，裤脚毛边，仅覆盖大腿根部"
+    ],
+    [
+     "米白色高腰阔腿裤",
+     "米白色高腰阔腿裤，腰线至肚脐以上，裤管宽大垂顺"
+    ],
+    [
+     "深灰色瑜伽裤",
+     "深灰色瑜伽裤紧贴双腿，勾勒完整腿部线条"
+    ],
+    [
+     "浅蓝色低腰牛仔裤",
+     "浅蓝色低腰牛仔裤，低腰露出胯骨线条，裤管拖地堆在鞋面"
+    ],
+    [
+     "蓝色高腰牛仔裤",
+     "蓝色高腰牛仔裤，裤脚微卷"
+    ],
+    [
+     "黑色皮短裤",
+     "黑色皮短裤，短至大腿根，皮质泛着锐利高光"
+    ],
+    [
+     "黑色紧身牛仔裤",
+     "黑色紧身牛仔裤，高腰，贴身勾勒腿线"
+    ],
+    [
+     "深蓝色直筒牛仔裤",
+     "深蓝色直筒牛仔裤，经典五袋款，裤脚平直"
+    ],
+    [
+     "黑色西装长裤",
+     "黑色西装长裤，垂坠直筒，中腰，裤线笔直"
+    ],
+    [
+     "卡其色工装裤",
+     "卡其色工装裤，侧边立体口袋，裤脚收束"
+    ],
+    [
+     "灰色运动短裤",
+     "灰色棉质运动短裤，宽松，松紧腰"
+    ],
+    [
+     "白色棉质短裤",
+     "白色棉质短裤，裤脚微卷，清爽"
+    ],
+    [
+     "白色直筒裤",
+     "白色直筒长裤，面料挺括，清爽利落"
+    ],
+    [
+     "深灰色西裤",
+     "深灰色直筒西裤，裤线笔直，干练"
+    ],
+    [
+     "浅色阔腿牛仔裤",
+     "浅色阔腿牛仔裤，裤管宽大，复古松弛"
+    ],
+    [
+     "黑色小脚裤",
+     "黑色小脚裤，贴身勾勒腿型，百搭"
+    ]
+   ]
+  },
+  "连衣裙": {
+   "短款": [
+    [
+     "经典小黑裙",
+     "经典小黑裙，无袖方领设计，腰部收紧裙摆微展，及膝长度"
+    ],
+    [
+     "黑色紧身针织连衣裙",
+     "黑色紧身针织连衣裙，从胸部到膝盖紧贴每一寸身体曲线"
+    ],
+    [
+     "浅蓝色条纹衬衫裙",
+     "浅蓝色条纹衬衫裙，领口纽扣微敞，腰带在腰间收紧"
+    ],
+    [
+     "碎花茶歇裙",
+     "碎花茶歇裙，低领交叉露出锁骨，短袖荷叶边袖口，裙摆及膝微展"
+    ],
+    [
+     "白色泡泡袖短裙",
+     "白色棉质泡泡袖连衣裙，收腰，裙摆至大腿中部，甜美"
+    ],
+    [
+     "黑色吊带背心裙",
+     "黑色吊带背心裙，直筒版型，裙摆至膝上，简约"
+    ],
+    [
+     "红白格纹连衣裙",
+     "红白格纹收腰连衣裙，泡泡袖，复古甜美"
+    ]
+   ],
+   "长款": [
+    [
+     "深蓝灰缎面吊带裙",
+     "深蓝灰缎面吊带裙，细肩带滑至肩头边缘，裙身贴合曲线，侧面高开衩"
+    ],
+    [
+     "白色缎面吊带长裙",
+     "白色缎面吊带长裙拖地，细肩带交叉于背后，裙身垂坠流畅"
+    ],
+    [
+     "雾霾蓝纱裙",
+     "雾霾蓝多层纱裙，吊带设计，裙摆层层叠叠拖地"
+    ],
+    [
+     "墨绿色丝绒长裙",
+     "墨绿色丝绒长裙，高开衩，复古浓郁"
+    ],
+    [
+     "波西米亚印花长裙",
+     "波西米亚风印花长裙，宽松V领，裙摆飘逸"
+    ],
+    [
+     "米白色针织长裙",
+     "米白色针织长裙，紧身勾勒曲线，温柔"
+    ],
+    [
+     "黑色蕾丝长裙",
+     "黑色蕾丝长裙，紧身剪裁，镂空花纹，裙摆拖地"
+    ],
+    [
+     "香槟色缎面长裙",
+     "香槟色缎面长裙，垂坠至脚踝，光泽柔和"
+    ],
+    [
+     "淡雅印花长裙",
+     "淡雅碎花长裙，轻盈雪纺，飘逸"
+    ]
+   ],
+   "礼服": [
+    [
+     "酒红色裹身裙",
+     "酒红色裹身裙，低领交叉设计，腰带在侧腰系结，裙摆自然散开"
+    ],
+    [
+     "白色抹胸婚纱",
+     "白色抹胸婚纱，蕾丝镂空上身，多层纱裙层叠拖地"
+    ],
+    [
+     "黑色亮片礼服裙",
+     "黑色亮片抹胸礼服裙，贴身，鱼尾下摆，灯光下闪光"
+    ],
+    [
+     "香槟金吊带礼服",
+     "香槟金缎面吊带礼服，细肩带，垂坠至脚踝"
+    ],
+    [
+     "红色鱼尾礼服",
+     "红色鱼尾礼服裙，深V领口，贴身高开衩"
+    ],
+    [
+     "宝蓝色天鹅绒礼服",
+     "宝蓝色天鹅绒礼服，抹胸设计，高开衩，复古华贵"
+    ]
+   ]
+  },
+  "外套": {
+   "大衣": [
+    [
+     "米白色羊毛大衣",
+     "米白色羊毛大衣，双排扣，过膝长度，质感柔软"
+    ],
+    [
+     "黑色长款大衣",
+     "黑色长款大衣，及膝以下，剪裁利落"
+    ],
+    [
+     "驼色浴袍式大衣",
+     "驼色浴袍式大衣，腰带系结，慵懒高级"
+    ],
+    [
+     "格纹羊毛大衣",
+     "格纹羊毛大衣，复古英伦，过膝"
+    ]
+   ],
+   "夹克": [
+    [
+     "黑色机车皮夹克",
+     "黑色机车皮夹克，金属拉链与铆钉，硬朗"
+    ],
+    [
+     "军绿色飞行员夹克",
+     "军绿色飞行员夹克，毛领，宽松"
+    ],
+    [
+     "深蓝色牛仔夹克",
+     "深蓝色牛仔夹克，做旧水洗"
+    ],
+    [
+     "红白拼色棒球夹克",
+     "红白拼色棒球夹克，经典复古"
+    ]
+   ],
+   "风衣披肩": [
+    [
+     "黑色长风衣",
+     "黑色长风衣，衣摆至小腿，腰带束出腰线"
+    ],
+    [
+     "大针织披肩",
+     "大针织披肩搭在肩头，慵懒垂坠"
+    ],
+    [
+     "白色皮草短披肩",
+     "白色短皮草披肩，贵气复古"
+    ]
+   ]
+  },
+  "职业制服": {
+   "校服": [
+    [
+     "深蓝色西式校服",
+     "深蓝色西式校服，白衬衫领口系蝴蝶结领带，格子百褶裙及膝，白色小腿袜"
+    ],
+    [
+     "白色水手服",
+     "白色水手服，深蓝色大翻领，红色领巾打结，深蓝百褶短裙"
+    ],
+    [
+     "灰色JK制服",
+     "灰色JK制服，深蓝领结，格纹百褶裙，西装外套"
+    ],
+    [
+     "蓝白运动校服",
+     "蓝白运动校服套装，拉链外套与短裤"
+    ]
+   ],
+   "职业装": [
+    [
+     "职场白领套装",
+     "白色衬衫塞进黑色包臀裙，黑色细跟高跟鞋"
+    ],
+    [
+     "深蓝色空姐制服",
+     "深蓝色空姐制服，红色领结，包臀裙及膝，贝雷帽"
+    ],
+    [
+     "白色护士服",
+     "白色护士服，护士帽，浅粉领口，听诊器挂在颈间"
+    ],
+    [
+     "深色警服套裙",
+     "深色警服套裙，警帽，腰间对讲机，手铐别在腰侧"
+    ],
+    [
+     "黑色修身西装套装",
+     "黑色修身西装套装，白衬衫，A字短裙"
+    ],
+    [
+     "棕色空乘制服",
+     "棕色空乘制服，丝巾系在颈间，包臀裙及膝"
+    ],
+    [
+     "白色厨师服",
+     "白色厨师服，双排扣，厨师帽"
+    ],
+    [
+     "白大褂医生服",
+     "白色医生大褂，听诊器挂在颈间，清冷专业"
+    ],
+    [
+     "藏青列车员制服",
+     "藏青色列车员制服，金色纽扣，丝巾系领"
+    ]
+   ],
+   "女仆家政": [
+    [
+     "经典黑白女仆装",
+     "经典黑白女仆装，白色荷叶边围裙系在黑色连衣裙外，白色蕾丝头饰"
+    ],
+    [
+     "粉白女仆装",
+     "粉白女仆装，粉色蝴蝶结围裙，蕾丝边"
+    ],
+    [
+     "英式管家制服",
+     "英式管家制服，白衬衫黑马甲，领结"
+    ],
+    [
+     "涩系女仆装",
+     "深色系女仆装，长袖，蝴蝶结领结，干练"
+    ]
+   ]
+  },
+  "传统服饰": {
+   "旗袍": [
+    [
+     "红色丝绒旗袍",
+     "红色丝绒旗袍，立领金色盘扣，侧面高开衩至大腿中部"
+    ],
+    [
+     "青色印花旗袍",
+     "青色真丝印花旗袍，立领，盘扣，及膝，清新雅致"
+    ],
+    [
+     "黑色蕾丝旗袍",
+     "黑色蕾丝旗袍，贴身，高开衩，性感"
+    ],
+    [
+     "白色绣花旗袍",
+     "白色缎面绣花旗袍，浅色刺绣，温婉"
+    ]
+   ],
+   "汉服": [
+    [
+     "白色交领汉服襦裙",
+     "白色交领汉服上衣，淡绿齐胸襦裙，宽袖飘逸，披帛绕臂"
+    ],
+    [
+     "朱红齐胸襦裙",
+     "朱红齐胸襦裙，金色绣花腰带，披帛飘逸"
+    ],
+    [
+     "魏晋风汉服",
+     "魏晋风交领汉服，宽袖，素色纱裙"
+    ],
+    [
+     "唐制坦领襦裙",
+     "唐制坦领襦裙，半臂，红色裙装"
+    ]
+   ],
+   "和服": [
+    [
+     "粉色樱花和服",
+     "粉色樱花纹和服，腰带系结，衣摆至脚踝"
+    ],
+    [
+     "深蓝色浴衣",
+     "深蓝色浴衣，白色花纹，腰带"
+    ],
+    [
+     "红色渐变和服",
+     "红色渐变和服，金色腰带，华丽"
+    ]
+   ]
+  }
+ },
+ "poses": {
+  "静态姿势": {
+   "站立": [
+    [
+     "直立",
+     "笔直站立，重心平稳，双手自然垂在身侧",
+     0
+    ],
+    [
+     "叉腰",
+     "单手叉腰，重心落在一侧，肩线微斜",
+     0
+    ],
+    [
+     "背手",
+     "双手背在身后站立，肩胛微微收紧",
+     0
+    ],
+    [
+     "靠墙",
+     "背靠墙面站立，重心落在一条腿上",
+     0
+    ],
+    [
+     "倚窗",
+     "侧身倚在窗框边，手肘撑住窗台",
+     0
+    ],
+    [
+     "镜前",
+     "站在落地镜前，双手垂在身侧",
+     0
+    ],
+    [
+     "站立交叉腿",
+     "双腿交叉站立，重心微斜，双手交叠垂在身前",
+     0
+    ],
+    [
+     "踮脚伸手",
+     "踮起脚尖伸手够高处，身体线条拉长",
+     0
+    ],
+    [
+     "单腿平衡",
+     "单腿站立，另一条腿微微屈起，双手轻抬保持平衡",
+     0
+    ],
+    [
+     "交叉脚踝站立",
+     "双脚交叉站立，脚踝相叠，姿态放松",
+     0
+    ]
+   ],
+   "坐姿": [
+    [
+     "床边坐",
+     "坐在床沿，双腿自然垂下，脚尖轻点地面",
+     1
+    ],
+    [
+     "椅坐双腿交叠",
+     "靠在椅中，双腿交叠，鞋尖微微晃动",
+     0
+    ],
+    [
+     "椅坐一条腿抬起",
+     "侧坐椅中，一条腿抬起搭在扶手上",
+     1
+    ],
+    [
+     "开腿坐",
+     "席地而坐，双腿分开，手撑在身后",
+     1
+    ],
+    [
+     "并腿坐",
+     "双腿并拢侧坐，一只手搭在膝上",
+     0
+    ],
+    [
+     "抱膝坐",
+     "双膝收拢抱在胸前，脸侧枕在膝头",
+     0
+    ],
+    [
+     "骑跨坐",
+     "跨坐在椅背或床沿，双手搭在身前",
+     0
+    ],
+    [
+     "盘腿坐",
+     "盘腿坐在地板上，双手搭在膝上，姿态放松",
+     0
+    ],
+    [
+     "跪坐",
+     "正坐跪坐，双手叠放在膝前，脊背挺直",
+     0
+    ],
+    [
+     "鸭子坐",
+     "双膝跪坐，小腿向两侧分开，姿态可爱",
+     1
+    ],
+    [
+     "侧坐床边",
+     "侧身坐在床边，双腿并拢斜放在床沿",
+     1
+    ],
+    [
+     "沙发贵妃躺",
+     "斜倚在沙发上，一条腿屈起搭在扶手上",
+     1
+    ],
+    [
+     "窗台坐",
+     "坐在窗台上，一条腿屈起，下巴搁在膝头",
+     1
+    ],
+    [
+     "吧台椅坐",
+     "坐在高脚吧台椅上，脚尖点地，双手搭在台面",
+     0
+    ],
+    [
+     "蹲姿",
+     "蹲下，双手交叠搭在膝上",
+     1
+    ]
+   ],
+   "跪姿卧姿": [
+    [
+     "臣服跪姿",
+     "双膝跪地，双手背在身后，脊背挺直，微微低头",
+     0
+    ],
+    [
+     "床边翘臀",
+     "跪在床边俯身，臀部朝向镜头微微翘起",
+     1
+    ],
+    [
+     "土下座",
+     "额头贴地跪伏，姿态恭顺",
+     0
+    ],
+    [
+     "单膝跪地",
+     "单膝跪地，另一条腿屈起，姿态优雅",
+     0
+    ],
+    [
+     "仰卧",
+     "仰面平躺，双臂自然摊开",
+     1
+    ],
+    [
+     "俯卧",
+     "俯卧，脸颊枕在手背上",
+     1
+    ],
+    [
+     "侧卧",
+     "侧身蜷卧，一只手枕在脸侧",
+     1
+    ],
+    [
+     "大字摊",
+     "大字摊开仰躺，四肢舒展",
+     1
+    ],
+    [
+     "翘臀趴",
+     "趴伏在床上，臀部微微翘起",
+     1
+    ],
+    [
+     "头垂床沿",
+     "仰躺，头垂出床沿，长发垂落",
+     1
+    ],
+    [
+     "仰卧抬腿",
+     "仰卧，双腿屈起抬起",
+     1
+    ],
+    [
+     "侧卧托腮",
+     "侧卧，手肘撑床托腮，身体弯曲出曲线",
+     1
+    ],
+    [
+     "俯卧翘脚",
+     "俯卧，双腿交叉向上翘起",
+     1
+    ]
+   ]
+  },
+  "动态动作": {
+   "行走奔跑": [
+    [
+     "走向镜头",
+     "正朝镜头走来，步伐从容",
+     0
+    ],
+    [
+     "背向离开",
+     "背对镜头缓步离开，边走边回头",
+     0
+    ],
+    [
+     "回眸行走",
+     "行走中回眸，发丝随动作扬起",
+     0
+    ],
+    [
+     "雨中行走",
+     "在雨中行走，雨点溅起细碎水花",
+     0
+    ],
+    [
+     "高跟鞋摇曳",
+     "踩着高跟鞋行走，腰臀随步伐摇曳",
+     0
+    ],
+    [
+     "回望奔跑",
+     "奔跑中回望镜头",
+     0
+    ],
+    [
+     "小跑",
+     "轻快小跑，发丝与衣摆晃动",
+     0
+    ],
+    [
+     "下楼梯",
+     "正走下楼梯，裙摆随步伐轻摆",
+     0
+    ],
+    [
+     "侧身行走",
+     "侧身行走，回眸看向镜头",
+     0
+    ],
+    [
+     "骑自行车",
+     "骑着自行车驶来，风吹动发丝",
+     0
+    ]
+   ],
+   "跳跃旋转": [
+    [
+     "裙摆飞扬",
+     "奔跑中裙摆被风掀起",
+     1
+    ],
+    [
+     "跃起",
+     "原地跃起，裙摆与发丝同时扬起",
+     0
+    ],
+    [
+     "跳床",
+     "在床上跃起，身体腾空",
+     0
+    ],
+    [
+     "慢舞",
+     "独自慢舞，手臂划出弧线",
+     0
+    ],
+    [
+     "转圈",
+     "原地转圈，裙摆划出圆形弧度",
+     0
+    ],
+    [
+     "钢管舞",
+     "绕钢管旋转，身体贴近钢管",
+     0
+    ],
+    [
+     "跳舞转身",
+     "舞蹈动作中转身，裙摆旋转",
+     0
+    ],
+    [
+     "荡秋千",
+     "坐在秋千上荡起，裙摆飞扬",
+     1
+    ],
+    [
+     "转伞",
+     "撑着伞旋转，伞面与裙摆一同旋转",
+     0
+    ]
+   ],
+   "日常动作": [
+    [
+     "伸懒腰",
+     "双臂向上伸展，身体拉长，衣摆上滑",
+     0
+    ],
+    [
+     "撩头发",
+     "行走中抬手把发丝撩到耳后",
+     0
+    ],
+    [
+     "倒水",
+     "侧身倒茶倒水，手腕轻转",
+     0
+    ],
+    [
+     "推门而入",
+     "正推门走进房间，门框半掩身形",
+     0
+    ],
+    [
+     "弯腰系鞋带",
+     "弯腰系鞋带，发丝垂落",
+     1
+    ],
+    [
+     "整理衣服",
+     "低头整理衣摆，指尖捏着衣角",
+     0
+    ],
+    [
+     "看手机",
+     "低头看手机，屏幕光映在脸上",
+     0
+    ]
+   ]
+  },
+  "过渡姿态": {
+   "穿衣脱衣": [
+    [
+     "蒙头脱衣",
+     "正把上衣蒙头拉起，露出一截腰腹",
+     0
+    ],
+    [
+     "缓慢解扣",
+     "手指正缓慢解开胸前纽扣",
+     0
+    ],
+    [
+     "背后拉链半拉",
+     "手伸到背后，拉链拉到一半",
+     0
+    ],
+    [
+     "肩带滑落",
+     "一侧肩带滑落，指尖正把它勾回",
+     0
+    ],
+    [
+     "丝袜卷到大腿",
+     "丝袜卷到大腿中部，指尖正整理袜口",
+     0
+    ],
+    [
+     "内裤褪到膝盖",
+     "手勾住内裤边缘，正往下褪",
+     1
+    ],
+    [
+     "脱外套",
+     "正把外套从肩头褪下，露出一侧肩膀",
+     0
+    ],
+    [
+     "卷袖子",
+     "正把袖口向上卷起，露出小臂",
+     0
+    ],
+    [
+     "穿鞋",
+     "单脚站立，正把脚伸进鞋子",
+     0
+    ],
+    [
+     "换衣服",
+     "侧身背对镜头，正把睡裙从头顶脱下",
+     1
+    ],
+    [
+     "解发圈",
+     "手指正解开头发上的发圈",
+     0
+    ],
+    [
+     "系腰带",
+     "低头把腰带在腰间系紧",
+     0
+    ]
+   ],
+   "动作瞬间": [
+    [
+     "回眸",
+     "身体背对，脸转回来看向镜头",
+     0
+    ],
+    [
+     "半转身",
+     "半转身，侧影与正脸各占一半",
+     0
+    ],
+    [
+     "扭腰回头",
+     "扭腰回头，脊背弯曲出流畅曲线",
+     0
+    ],
+    [
+     "弯腰捡物",
+     "弯腰捡起地上的物件，臀部朝向镜头",
+     1
+    ],
+    [
+     "撑床起身",
+     "双手撑床，上身抬起",
+     0
+    ],
+    [
+     "起身瞬间",
+     "正从床上坐起，睡眼惺忪，被子滑落至腰间",
+     1
+    ],
+    [
+     "侧身躺下",
+     "正在侧身躺下，身体弯曲",
+     0
+    ],
+    [
+     "俯身吹蜡烛",
+     "俯身吹灭蜡烛，衣领随动作低垂",
+     1
+    ],
+    [
+     "提裙摆",
+     "微微提起裙摆，露出小腿",
+     0
+    ],
+    [
+     "扯领口",
+     "手指扯住领口轻轻拉开",
+     0
+    ]
+   ]
+  },
+  "挑逗姿态": {
+   "肢体诱惑": [
+    [
+     "曲线叉腰",
+     "侧身站出优雅曲线，单手叉腰",
+     0
+    ],
+    [
+     "抚摸大腿",
+     "手掌沿大腿外侧缓缓滑过",
+     0
+    ],
+    [
+     "托胸",
+     "双手轻轻托住胸部",
+     0
+    ],
+    [
+     "对镜摆姿势",
+     "对镜摆出撩人姿势",
+     0
+    ],
+    [
+     "手撑大腿",
+     "俯身，双手撑在自己大腿上，向前倾身",
+     1
+    ],
+    [
+     "侧躺招手",
+     "侧卧床上，向镜头方向招手",
+     1
+    ],
+    [
+     "指尖沿锁骨滑动",
+     "指尖沿锁骨线条缓缓滑动",
+     0
+    ],
+    [
+     "整理丝袜",
+     "弯腰整理袜口，指尖勾着袜边",
+     1
+    ],
+    [
+     "撩裙边",
+     "指尖轻轻撩起裙边一角",
+     1
+    ],
+    [
+     "倚门框",
+     "斜倚门框，一条腿屈起抵在门框上",
+     0
+    ],
+    [
+     "背手挺胸",
+     "双手背在身后，挺胸微微前倾",
+     0
+    ]
+   ],
+   "眼神表情": [
+    [
+     "回眸放电",
+     "回眸看向镜头，眼波流转",
+     0
+    ],
+    [
+     "咬唇",
+     "指尖轻触嘴唇，作咬唇状",
+     0
+    ],
+    [
+     "舔唇",
+     "舌尖轻舔下唇",
+     0
+    ],
+    [
+     "飞吻",
+     "指尖轻触唇边，送出飞吻",
+     0
+    ],
+    [
+     "歪头眨眼",
+     "歪头，俏皮地眨一只眼",
+     0
+    ],
+    [
+     "咬发尾",
+     "侧头咬住一缕发尾，眼神带笑",
+     0
+    ],
+    [
+     "解开发带",
+     "缓慢解开发带，发丝散落",
+     0
+    ]
+   ]
+  }
+ },
+ "style_presets": {
+  "法式优雅": {
+   "clothCat": "上衣",
+   "clothSubCat": "内搭吊带",
+   "clothItem": "上衣｜内搭吊带｜白色缎面吊带背心",
+   "clothBottom": "下装｜裤装｜米白色高腰阔腿裤",
+   "clothMat": "真丝",
+   "clothLayer": "不使用",
+   "shoes": "裸色踝带高跟鞋",
+   "socks": "不使用",
+   "accessory": "纤细锁骨链贴着锁骨"
+  },
+  "千禧辣妹": {
+   "clothCat": "上衣",
+   "clothSubCat": "内搭吊带",
+   "clothItem": "上衣｜内搭吊带｜奶白色罗纹针织短款吊带背心",
+   "clothBottom": "下装｜裤装｜黑色牛仔热裤",
+   "clothMat": "棉质",
+   "clothLayer": "不使用",
+   "shoes": "白色厚底运动鞋",
+   "socks": "不使用",
+   "accessory": "金色身体链沿腰线垂落"
+  },
+  "哥特暗黑": {
+   "clothCat": "上衣",
+   "clothSubCat": "针织毛衣",
+   "clothItem": "上衣｜针织毛衣｜黑色丝绒紧身上衣",
+   "clothBottom": "下装｜裤装｜黑色皮短裤",
+   "clothMat": "丝绒",
+   "clothLayer": "不使用",
+   "shoes": "黑色皮革过膝长靴",
+   "socks": "不使用",
+   "accessory": "十字架吊坠垂在锁骨间",
+   "clothDeco": "蕾丝镶边"
+  },
+  "美式学院": {
+   "clothCat": "上衣",
+   "clothSubCat": "衬衫",
+   "clothItem": "上衣｜衬衫｜白色棉质宽松衬衫",
+   "clothBottom": "下装｜裙装｜深灰色百褶短裙",
+   "clothMat": "不使用",
+   "clothLayer": "外搭驼色低领针织背心",
+   "shoes": "黑色漆皮乐福鞋",
+   "socks": "白色小腿袜",
+   "accessory": "不使用"
+  },
+  "极简主义": {
+   "clothCat": "上衣",
+   "clothSubCat": "针织毛衣",
+   "clothItem": "上衣｜针织毛衣｜黑色高领针织毛衣",
+   "clothBottom": "下装｜裤装｜米白色高腰阔腿裤",
+   "clothMat": "棉质",
+   "clothLayer": "不使用",
+   "shoes": "不使用",
+   "socks": "不使用",
+   "accessory": "银色耳环在发间轻晃"
+  },
+  "芭蕾风": {
+   "clothCat": "上衣",
+   "clothSubCat": "针织毛衣",
+   "clothItem": "上衣｜针织毛衣｜淡粉色裹身上衣",
+   "clothBottom": "下装｜裙装｜白色纱裙",
+   "clothMat": "不使用",
+   "clothLayer": "不使用",
+   "shoes": "芭蕾平底鞋",
+   "socks": "不使用",
+   "accessory": "不使用",
+   "hairAcc": "丝带编发"
+  },
+  "复古港风": {
+   "clothCat": "上衣",
+   "clothSubCat": "衬衫",
+   "clothItem": "上衣｜衬衫｜复古波点衬衫",
+   "clothBottom": "下装｜裤装｜蓝色高腰牛仔裤",
+   "clothMat": "不使用",
+   "clothLayer": "宽垫肩西装外套披在肩头",
+   "shoes": "不使用",
+   "socks": "不使用",
+   "accessory": "银色耳环在发间轻晃",
+   "clothPattern": "波点"
+  },
+  "办公室海妖": {
+   "clothCat": "上衣",
+   "clothSubCat": "衬衫",
+   "clothItem": "上衣｜衬衫｜白色丝质衬衫",
+   "clothBottom": "下装｜裙装｜黑色紧身短裙",
+   "clothMat": "真丝",
+   "clothLayer": "外套随意披在肩头",
+   "shoes": "黑色尖头高跟鞋",
+   "socks": "黑色连裤丝袜",
+   "accessory": "黑色丝绒项圈紧贴喉下"
+  },
+  "暗黑甜心": {
+   "clothCat": "连衣裙",
+   "clothSubCat": "长款",
+   "clothItem": "连衣裙｜长款｜黑色蕾丝长裙",
+   "clothMat": "蕾丝",
+   "clothLayer": "不使用",
+   "shoes": "黑色马丁靴",
+   "socks": "黑色过膝袜",
+   "accessory": "黑色丝绒项圈紧贴喉下"
+  },
+  "新中式旗袍": {
+   "clothCat": "传统服饰",
+   "clothSubCat": "旗袍",
+   "clothItem": "传统服饰｜旗袍｜青色印花旗袍",
+   "clothMat": "真丝",
+   "clothLayer": "不使用",
+   "shoes": "不使用",
+   "socks": "不使用",
+   "accessory": "不使用",
+   "hairAcc": "簪子"
+  },
+  "国风汉服": {
+   "clothCat": "传统服饰",
+   "clothSubCat": "汉服",
+   "clothItem": "传统服饰｜汉服｜朱红齐胸襦裙",
+   "clothMat": "不使用",
+   "clothLayer": "不使用",
+   "shoes": "不使用",
+   "socks": "不使用",
+   "accessory": "不使用",
+   "hairAcc": "簪子"
+  },
+  "冬日大衣": {
+   "clothCat": "外套",
+   "clothSubCat": "大衣",
+   "clothItem": "外套｜大衣｜米白色羊毛大衣",
+   "clothBottom": "下装｜裙装｜黑色紧身短裙",
+   "clothMat": "不使用",
+   "clothLayer": "不使用",
+   "shoes": "黑色切尔西靴",
+   "socks": "不使用",
+   "accessory": "不使用"
+  },
+  "樱花和服": {
+   "clothCat": "传统服饰",
+   "clothSubCat": "和服",
+   "clothItem": "传统服饰｜和服｜粉色樱花和服",
+   "clothMat": "不使用",
+   "clothLayer": "不使用",
+   "shoes": "不使用",
+   "socks": "不使用",
+   "accessory": "不使用",
+   "hairAcc": "花朵发饰"
+  }
+ },
+ "sections": [
+  {
+   "id": "camera",
+   "title": "① 拍摄角度",
+   "open": true,
+   "fields": [
+    {
+     "id": "lens",
+     "label": "镜头类型（必选）",
+     "list": "lens"
+    },
+    {
+     "id": "viewpoint",
+     "label": "视角（必选，杜绝平视正面）",
+     "list": "viewpoint"
+    },
+    {
+     "id": "shotSize",
+     "label": "景别",
+     "list": "shotSize"
+    },
+    {
+     "id": "dof",
+     "label": "景深处理",
+     "list": "dof"
+    },
+    {
+     "id": "device",
+     "label": "设备质感（可选）",
+     "list": "device"
+    }
+   ]
+  },
+  {
+   "id": "light",
+   "title": "② 光影·色调·氛围",
+   "open": true,
+   "fields": [
+    {
+     "id": "mainLight",
+     "label": "主光技法（必选）",
+     "list": "mainLight"
+    },
+    {
+     "id": "ambient",
+     "label": "氛围光（可选）",
+     "list": "ambient"
+    },
+    {
+     "id": "colorTone",
+     "label": "色温·情绪（必选）",
+     "list": "colorTone"
+    }
+   ]
+  },
+  {
+   "id": "person",
+   "title": "③ 人物维度",
+   "open": true,
+   "fields": [
+    {
+     "id": "temperament",
+     "label": "气质定调",
+     "list": "temperament"
+    },
+    {
+     "id": "age",
+     "label": "年纪身份（≥18）",
+     "list": "age"
+    },
+    {
+     "id": "race",
+     "label": "人种感",
+     "list": "race"
+    },
+    {
+     "id": "face",
+     "label": "脸型",
+     "list": "face"
+    },
+    {
+     "id": "skin",
+     "label": "肤色",
+     "list": "skin"
+    },
+    {
+     "id": "texture",
+     "label": "肤质",
+     "list": "texture"
+    },
+    {
+     "id": "body",
+     "label": "体型骨架",
+     "list": "body"
+    },
+    {
+     "id": "leg",
+     "label": "腿型",
+     "list": "leg"
+    },
+    {
+     "id": "firstImp",
+     "label": "第一印象",
+     "list": "firstImp"
+    }
+   ]
+  },
+  {
+   "id": "hair",
+   "title": "④ 发型",
+   "open": false,
+   "fields": [
+    {
+     "id": "hairLen",
+     "label": "长度",
+     "list": "hairLen"
+    },
+    {
+     "id": "hairColor",
+     "label": "颜色",
+     "list": "hairColor"
+    },
+    {
+     "id": "hairCurl",
+     "label": "卷直",
+     "list": "hairCurl"
+    },
+    {
+     "id": "hairTie",
+     "label": "扎法",
+     "list": "hairTie"
+    },
+    {
+     "id": "hairBangs",
+     "label": "刘海",
+     "list": "hairBangs"
+    },
+    {
+     "id": "hairState",
+     "label": "发丝状态",
+     "list": "hairState"
+    },
+    {
+     "id": "hairAcc",
+     "label": "头饰（可选）",
+     "list": "hairAcc"
+    }
+   ]
+  },
+  {
+   "id": "makeup",
+   "title": "⑤ 妆容",
+   "open": false,
+   "fields": [
+    {
+     "id": "makeup",
+     "label": "妆容类型（必选）",
+     "list": "makeup"
+    },
+    {
+     "id": "makeupDetail",
+     "label": "妆面细节（可选）",
+     "list": "makeupDetail"
+    },
+    {
+     "id": "smudge",
+     "label": "糊妆状态（可选）",
+     "list": "smudge"
+    },
+    {
+     "id": "nails",
+     "label": "指甲手部（可选）",
+     "list": "nails"
+    }
+   ]
+  },
+  {
+   "id": "expression",
+   "title": "⑥ 表情·眼神·嘴部",
+   "open": false,
+   "fields": [
+    {
+     "id": "emotion",
+     "label": "情绪表情（必选）",
+     "list": "emotion"
+    },
+    {
+     "id": "eye",
+     "label": "眼神方向（必选）",
+     "list": "eye"
+    },
+    {
+     "id": "mouth",
+     "label": "嘴部状态（必选）",
+     "list": "mouth"
+    }
+   ]
+  },
+  {
+   "id": "cloth",
+   "title": "⑦ 服装（大类→次级分类→款式）",
+   "open": false,
+   "mode": "both",
+   "fields": []
+  },
+  {
+   "id": "pose",
+   "title": "⑧ 姿态·动作（大类→次级分类→姿态）",
+   "open": false,
+   "mode": "both",
+   "fields": []
+  },
+  {
+   "id": "bg",
+   "title": "⑨ 背景·道具·天气",
+   "open": false,
+   "fields": [
+    {
+     "id": "scene",
+     "label": "场景（必选）",
+     "list": "scene"
+    },
+    {
+     "id": "prop",
+     "label": "道具（可选）",
+     "list": "prop"
+    },
+    {
+     "id": "weather",
+     "label": "天气氛围（可选）",
+     "list": "weather"
+    }
+   ]
+  },
+  {
+   "id": "comp",
+   "title": "⑩ 构图·视觉引导",
+   "open": false,
+   "fields": [
+    {
+     "id": "comp",
+     "label": "构图策略（必选）",
+     "list": "comp"
+    },
+    {
+     "id": "compPos",
+     "label": "人物位置",
+     "list": "compPos"
+    }
+   ]
+  },
+  {
+   "id": "extra",
+   "title": "附加：风格·胶片·瑕疵·纹身",
+   "open": false,
+   "fields": [
+    {
+     "id": "styleTag",
+     "label": "整体风格",
+     "list": "styleTag"
+    },
+    {
+     "id": "film",
+     "label": "胶片模拟",
+     "list": "film"
+    },
+    {
+     "id": "cine",
+     "label": "电影镜头",
+     "list": "cine"
+    },
+    {
+     "id": "imperf1",
+     "label": "真实感瑕疵 1",
+     "list": "imperf"
+    },
+    {
+     "id": "imperf2",
+     "label": "真实感瑕疵 2",
+     "list": "imperf"
+    },
+    {
+     "id": "tattoo",
+     "label": "纹身图案（可选）",
+     "list": "tattoo"
+    },
+    {
+     "id": "tattooPos",
+     "label": "纹身位置",
+     "list": "tattooPos"
+    }
+   ]
+  }
+ ],
+ "cloth_fields": {
+  "sfw": [
+   {
+    "id": "stylePreset",
+    "label": "设计风格一键搭配",
+    "list": "stylePreset"
+   },
+   {
+    "id": "clothCat",
+    "label": "主件大类（必选）",
+    "list": "clothCat"
+   },
+   {
+    "id": "clothSubCat",
+    "label": "次级分类（随大类变化）",
+    "list": "clothSubCat"
+   },
+   {
+    "id": "clothItem",
+    "label": "主件款式（必选）",
+    "list": "clothItem"
+   },
+   {
+    "id": "clothBottom",
+    "label": "下装补充（仅上衣/外套可选）",
+    "list": "clothBottom"
+   },
+   {
+    "id": "clothMat",
+    "label": "材质·光效",
+    "list": "clothMat"
+   },
+   {
+    "id": "clothPattern",
+    "label": "图案花纹",
+    "list": "clothPattern"
+   },
+   {
+    "id": "clothDeco",
+    "label": "装饰细节",
+    "list": "clothDeco"
+   },
+   {
+    "id": "clothLayer",
+    "label": "穿搭层次",
+    "list": "clothLayer"
+   },
+   {
+    "id": "shoes",
+    "label": "鞋履",
+    "list": "shoes"
+   },
+   {
+    "id": "socks",
+    "label": "丝袜/袜子",
+    "list": "socks"
+   },
+   {
+    "id": "accessory",
+    "label": "配饰",
+    "list": "accessory"
+   },
+   {
+    "id": "pantyColor",
+    "label": "安全内裤·颜色（高风险时自动写入）",
+    "list": "pantyColor"
+   },
+   {
+    "id": "pantyStyle",
+    "label": "安全内裤·款式",
+    "list": "pantyStyle"
+   }
+  ],
+  "nsfw": [
+   {
+    "id": "nsfwState",
+    "label": "穿着状态（必选）",
+    "list": "nsfwState"
+   },
+   {
+    "id": "nsfwMod",
+    "label": "色情改造维度",
+    "list": "nsfwMod"
+   },
+   {
+    "id": "nsfwFabric",
+    "label": "面料质感",
+    "list": "nsfwFabric"
+   },
+   {
+    "id": "nsfwBody",
+    "label": "身体表现（反应/体液）",
+    "list": "nsfwBody"
+   },
+   {
+    "id": "nsfwProp",
+    "label": "色情道具",
+    "list": "nsfwProp"
+   },
+   {
+    "id": "nsfwShoes",
+    "label": "鞋袜（可选）",
+    "list": "nsfwShoes"
+   }
+  ]
+ },
+ "pose_fields": {
+  "sfw": [
+   {
+    "id": "poseCat",
+    "label": "姿态大类",
+    "list": "poseCat"
+   },
+   {
+    "id": "poseSubCat",
+    "label": "次级分类（随大类变化）",
+    "list": "poseSubCat"
+   },
+   {
+    "id": "pose",
+    "label": "姿态（必选）",
+    "list": "pose"
+   },
+   {
+    "id": "poseExtra",
+    "label": "手部细节（可选）",
+    "list": "poseExtra"
+   }
+  ],
+  "nsfw": [
+   {
+    "id": "nsfwPose",
+    "label": "NSFW 姿态类别（必选）",
+    "list": "nsfwPose"
+   },
+   {
+    "id": "nsfwChain",
+    "label": "身体反应链（可选）",
+    "list": "nsfwChain"
+   }
+  ]
+ },
+ "ban_a": [
+  "汗湿",
+  "湿润",
+  "油光",
+  "水雾",
+  "水珠",
+  "湿身",
+  "油亮肌肤",
+  "陶瓷水嫩",
+  "细腻如瓷",
+  "通透光泽",
+  "婴儿肌"
+ ],
+ "ban_b": [
+  "倾泻",
+  "流淌",
+  "如流水般",
+  "如水流般",
+  "如霜雾般",
+  "如雾",
+  "如露珠",
+  "水波般",
+  "涟漪般",
+  "浸润",
+  "泼洒",
+  "飞溅",
+  "水汽",
+  "雾化",
+  "弥漫如雾"
+ ],
+ "ban_d": [
+  "nipple",
+  "pussy",
+  "vagina",
+  "vulva",
+  "penis",
+  "cock",
+  "dick",
+  "anus",
+  "asshole",
+  "clitoris",
+  "labia",
+  "scrotum",
+  "testicles",
+  "areola"
+ ],
+ "trim_order": [
+  "styleTag",
+  "cine",
+  "film",
+  "imperf2",
+  "imperf1",
+  "weather",
+  "prop",
+  "nsfwChain",
+  "nsfwShoes",
+  "nsfwFabric",
+  "nsfwMod",
+  "hairAcc",
+  "poseExtra",
+  "makeupDetail",
+  "nails",
+  "smudge",
+  "clothDeco",
+  "clothPattern",
+  "clothBottom",
+  "ambient",
+  "device",
+  "tattoo",
+  "clothLayer",
+  "clothMat",
+  "accessory",
+  "socks",
+  "shoes"
+ ]
+}

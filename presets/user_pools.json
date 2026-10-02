@@ -1,0 +1,33 @@
+{
+  "_说明": [
+    "Krea2-Portrait 用户自定义池（v3.6+）。放在本目录即自动加载，改完存盘即刻生效，不用重启 ComfyUI。",
+    "键 = 池名，值 = { 条目名: { frag: 片段文本, nsfw: 0-4, tags: [...], cover_lv: '...' } }。",
+    "· frag 必填，就是落进提示词的那句话；写“画面里有什么”，不要写否定句。",
+    "· nsfw 缺省 0（sfw）。tags 用来做兼容性判定，常用：full / upper / lower / casual。",
+    "· 同名条目会**覆盖**内置条目（用户优先）；不同名就是纯新增，不动内置数据。",
+    "· 可用池名：clothing / stocking / shoes / accessory / pose / scene / expression /",
+    "  hairstyle / haircolor / eyecolor / body_build / figure / focus / light / composition /",
+    "  light_tech / color_tone / quality / focal / tattoo / tattoo_pos",
+    "· 本文件只是一个**模板**：把下面示例改成你要的内容；全部删空 = 不加载任何自定义条目。"
+  ],
+  "clothing": {
+    "墨绿丝绒连衣裙": {
+      "frag": "身穿一条墨绿色丝绒连衣裙，裙摆垂到小腿",
+      "nsfw": 0,
+      "tags": ["full", "casual"],
+      "cover_lv": "full"
+    }
+  },
+  "scene": {
+    "深夜便利店": {
+      "frag": "站在深夜便利店的冷白灯光下，货架在身后排开",
+      "nsfw": 0
+    }
+  },
+  "composition": {
+    "三分法": {
+      "frag": "人物落在画面偏右的三分线交点附近，左侧留出一片空白",
+      "nsfw": 0
+    }
+  }
+}
